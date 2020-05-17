@@ -1,0 +1,13 @@
+main:
+  - title: "Grußwort"
+    url: /grusswort/
+  - title: "Redner"
+    url: /categories/
+  - title: "Program"
+    url: /tags/
+  - title: "Veranstalter"
+    url: /about/
+  - title: "Seminarort"
+    url: /about/
+  - title: "Preis & Anmeldung"
+    url: /about/
