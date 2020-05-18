@@ -1,10 +1,11 @@
 ---
 permalink: /grusswort/
 title: "Grußwort von Shanti"
+subtitle: "test"
 layout: splash
 header:
-#overlay_color: "#333"
-#  overlay_filter: "0.5"
+  overlay_color: "#00f"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/nature2_640.jpg
 ---
 
