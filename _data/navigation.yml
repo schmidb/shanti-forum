@@ -1,8 +1,8 @@
 main:
   - title: "Grußwort"
     url: /grusswort/
-  - title: "Redner"
-    url: /categories/
+  - title: "Referenten"
+    url: /referenten/
   - title: "Program"
     url: /tags/
   - title: "Veranstalter"
