@@ -1,7 +1,6 @@
 ---
 permalink: /grusswort/
 title: "Grußwort von Shanti"
-subtitle: "test"
 layout: splash
 header:
   overlay_color: "#00f"
