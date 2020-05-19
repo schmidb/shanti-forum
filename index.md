@@ -15,7 +15,6 @@ header:
     - label: "Anmeldung"
       url: "/anmeldung/"
 ---
-
 Was Anfang vom Jahr 2019 als Vision begann, wird nun real umgesetzt in ein
 breitgefächertes Spektrum von Themen und Referenten die Tätig sind in ganz
 verschiedenen Lebensbereichen.
@@ -29,7 +28,6 @@ den Menschen- Tier- und Pflanzenwelt.
 An diesem 1. Internationalen Shanti-Forum kommen Menschen zu Wort und
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
-
 
 Themen werden sein:
 - Mensch-Kosmos, Wir lassen uns hineinführen, hinein fühlen, in die
