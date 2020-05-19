@@ -5,9 +5,7 @@ main:
     url: /referenten/
   - title: "Program"
     url: /program/
-  - title: "Veranstalter"
-    url: /about/
   - title: "Seminarort"
-    url: /about/
+    url: /Seminarort/
   - title: "Preis & Anmeldung"
-    url: /about/
+    url: /anmeldung/
