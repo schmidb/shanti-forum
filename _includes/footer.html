@@ -12,3 +12,33 @@
 <div class="page__footer-copyright"><a href="/impressum/">Impressum</a> | <a href="/sitemap.xml">Sitemap</a></div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+
+
+<!-- js for cookie message -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
+
+
+<!-- script for cooke message -->
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+    "palette": {
+      "popup": {
+        "background": "#efefef",
+        "text": "#404040"
+      },
+      "button": {
+        "background": "#03a9f4",
+        "text": "#ffffff"
+      }
+    },
+    "theme": "classic",
+    "position": "bottom-left",
+    "content": {
+        "message": "Diese Website verwendet Cookies, um Ihnen das bestmögliche Erlebnis auf unserer Website zu ermöglichen.",
+        "dismiss": "Danke",
+        "link": "mehr"
+      }
+});
+</script>
