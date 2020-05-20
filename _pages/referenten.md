@@ -7,24 +7,26 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/dandelion_640.jpg
 feature_row:
-  - image_path: assets/images/dandelion_640.jpg
-    alt: "placeholder image 1"
+  - image_path: /assets/referenten/interaction_640.jpg
     title: "Speaker 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/dandelion_640.jpg
+  - image_path: /assets/referenten/interaction_640.jpg
     alt: "placeholder image 2"
     title: "Speaker 2"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/dandelion_640.jpg
-    title: "Speaker 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/dandelion_640.jpg
+  - image_path: /assets/referenten/schmidberger.jpg
+    title: "Miriam & Markus Schmidberger"
+    excerpt: "Gelebte Familien Transformation, Neue Strukturen als Familie und Individuum, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE"
+    url: "https://familien-transformation.de"
+    btn_label: "https://familien-transformation.de"
+    btn_class: "btn--primary"
+  - image_path: /assets/referenten/interaction_640.jpg
     title: "Speaker 4"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---

@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#00f"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/nature2_640.jpg
+  overlay_image: /assets/images/seinz.jpg
 ---
 
 Das SEINZ Wisdom Resort liegt auf einem idyllisch gelegenen Anwesen inmitten der Ammergauer Alpen.
