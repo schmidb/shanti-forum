@@ -25,7 +25,7 @@ Jedoch gibt es auch sehr viele Bemühungen von Menschen
 und Institutionen, die im aufbauenden und schützenden Tätig sind für die Erde,
 den Menschen- Tier- und Pflanzenwelt.
 
-An diesem 1. Internationalen Shanti-Forum kommen Menschen zu Wort und
+An diesem 1. Internationalen Shanti-Forum kommen [Menschen](referenten) zu Wort und
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
 

@@ -7,6 +7,11 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/the-road_640.jpg
 ---
+Das Shanti-Forum richtet sich inbesondere an Alle Interessierten an der Förderung und Weiterentwicklung zum Schutze des Lebens: wie z. B. Ärzte,
+Therapeuten, Pflegepersonal, Pädagogen, Lehrpersonen,
+Kunstschaffende, Eltern, Erzieher, …
+
+BEMERKUNG: EMR/ASCA konform
 
 # Preise
 bald
