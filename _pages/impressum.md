@@ -10,8 +10,8 @@ header:
 
 
 #### Angaben gem&auml;&szlig; &sect; 5 TMG
-Shanti Yoga und Meditation<br>
-Praxis für Ganzheitliche Therapien<br>
+Mother of life Shanti Yoga"<br>
+Praxis für Gesamtheitliche Therapien<br>
 Shanti Bosshart<br>
 Kasernenstrasse 5<br>
 3600 Thun - Schweiz
