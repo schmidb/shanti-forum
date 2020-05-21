@@ -19,18 +19,24 @@ feature_row:
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Dr. med. Jürg Reinhard"
     excerpt: "Anthroposophischer Arzt, Physiker ETH, dipl. Bergführer, Buchautor, Thun CH"
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/findeisen.jpg
     title: "Wolfgang Findeisen"
     excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE"
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/gupta.jpg
     title: "Dr. med. Hedwig H. Gupta"
-    excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"
+    excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"  
+    url: "https://www.vidya-sagar.de/"
+    btn_label: "https://www.vidya-sagar.de/"
+    btn_class: "btn--primary"
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Sasikumar Tharmalingam"
     excerpt: "Hindupriester, Seelsorger, interreligiöser & interkultureller Mentor (BE/FAH),Leiter Ayurvedische Küche, Haus der Religionen, Bern CH"
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
-    excerpt: "TKonzertpianist und Dozent an der Hochschule der Künste Bern, Bern CH"
+    excerpt: "Konzertpianist und Dozent an der Hochschule der Künste Bern, Bern CH"
+    url: "https://www.aki-hoffmann.com/"
+    btn_label: "https://www.aki-hoffmann.com/"
+    btn_class: "btn--primary"
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Stefan Maurer"
     excerpt: "Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künsterkollektivs MaMi, Projekte im Bereich Kunst, Bildung und Öffentlichkeit, Bern CH"
