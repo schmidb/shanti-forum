@@ -28,18 +28,24 @@ feature_row:
     url: "https://www.vidya-sagar.de/"
     btn_label: "https://www.vidya-sagar.de/"
     btn_class: "btn--primary"
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/sasi.jpg
     title: "Sasikumar Tharmalingam"
     excerpt: "Hindupriester, Seelsorger, interreligiöser & interkultureller Mentor (BE/FAH),Leiter Ayurvedische Küche, Haus der Religionen, Bern CH"
+    url: "https://www.haus-der-religionen.ch/"
+    btn_label: "https://www.haus-der-religionen.ch/"
+    btn_class: "btn--primary"
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
     excerpt: "Konzertpianist und Dozent an der Hochschule der Künste Bern, Bern CH"
     url: "https://www.aki-hoffmann.com/"
     btn_label: "https://www.aki-hoffmann.com/"
     btn_class: "btn--primary"
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/maurer.jpg
     title: "Stefan Maurer"
     excerpt: "Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künsterkollektivs MaMi, Projekte im Bereich Kunst, Bildung und Öffentlichkeit, Bern CH"
+    url: "https://maust.ch/"
+    btn_label: "https://maust.ch/"
+    btn_class: "btn--primary"
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Doris Luginbühl"
     excerpt: "Dipl. Hebamme, SS- und Familienbetreuung, Ecole Equestre Esprit de la Légèrete, Globale Verantwortung in einer sich wandelnden Welt, Courtion CH"
