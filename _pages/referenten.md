@@ -7,6 +7,9 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/dandelion_640.jpg
 feature_row:
+  - image_path: /assets/referenten/fuchs.jpg
+    title: "Bernd Fuchs"
+    excerpt: "Bernd Fuchs, Elektroingenieur, geboren und aufgewachsen in der Nähe von Stuttgart, lebt seit 25 Jahren in Österreich, ist Vater von zwei Kindern und hat in Tirol seine Herzensheimat gefunden.<br>Er und seine Familie erkrankten 1999 durch die eigenen digitalen Geräte im Haushalt. Da er bereits zu dieser Zeit das nahezu verloren gegangenen Wissen von Wilhelm Reich und anderen studierte, wurde ihm durch die Erkrankungen bewusst, dass diese neue Technik das natürliche Schöpfungsfeld massiv beeinträchtigt. Ihm wurde zunehmend klarer, dass psychischer und physischer Niedergang, nur eine Frage von Zeit sein werden.<br>Er startete mit einigen Ärzten eine einzigartige, gesamtheitliche Forschung aller umweltbedingten Faktoren und konnte im direkten Gespräch mit kranken Menschen, intuitiv alle wesentlichen Ursachen für die Entstehung nahezu jeder Erkrankung verifizieren. Er entwickelte ein einfach anwendbares Lösungskonzept, welches die schlimmsten Ursachen neutralisiert und damit das Fundament von Gesundheit stabilisiert. Er konnte nachweislich vielen tausend Menschen das Leben verlängern und die Lebensqualität deutlich verbessern.<br>Bernd klärt auf, warum altbewährte Heilmethoden zunehmend an Nachhaltigkeit verlieren und wie man diesen Trend umkehren kann, indem er die Reinheit der Schöpfungskräfte den Menschen wieder zuführt. Diese sind der wichtigste Garant für gesundes Leben."
   - image_path: /assets/referenten/schmidberger.jpg
     title: "Miriam & Markus Schmidberger"
     excerpt: "Gelebte Familien Transformation, Neue Strukturen als Familie und Individuum, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE"
@@ -16,9 +19,9 @@ feature_row:
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Sascha Schär"
     excerpt: "n11 Achitekt REG A/SIA, Holz100 Bauphilosopie ohne Heizung, Verdichtetes Bauenim alpinen Raum - kein Wiederspruch, Zweisimmen CH"
-  - image_path: /assets/referenten/bio-photo.jpg
-    title: "Dr. med. Jürg Reinhard"
-    excerpt: "Anthroposophischer Arzt, Physiker ETH, dipl. Bergführer, Buchautor, Thun CH"
+#  - image_path: /assets/referenten/bio-photo.jpg
+#    title: "Dr. med. Jürg Reinhard"
+#    excerpt: "Anthroposophischer Arzt, Physiker ETH, dipl. Bergführer, Buchautor, Thun CH"
   - image_path: /assets/referenten/findeisen.jpg
     title: "Wolfgang Findeisen"
     excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE"
