@@ -18,8 +18,9 @@ im	Einklang	sind.
 * 21.15-21.45 AUSSPRACHE
 * 21.45-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
 
-# Samstag, 17. Oktober 2020
+<a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
+# Samstag, 17. Oktober 2020
 * 10.00-11.00 **DAS WIRKEN DES ÄTHERISCHEN IM ÜBER-
 UND UNTERSINNLICHEN. DER MENSCH IM SPANNUNGSFELD VON
 AUF- UND ABBAUENDEN KRAFTFELDERN**, Wolfgang Findeisen, ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive
@@ -35,16 +36,16 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 16.00-16.30 AUSSPRACHE
 * 16.30-16.45 PAUSE
 * 17.00-18.30 **DREI ARBEITSGRUPPEN**
-GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften* Wolfgang Findeisen
-GRUPPE B *Ayurveda Yogatherapie im Alltag*
-Dr. Hedwig Gupta
-GRUPPE C *Herausforderungen und Lösungsansätze
-im Eltern sein in der Neuen Zeit*
-Doris Luginbühl, Miriam & Markus Schmidberger
+  * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
+  * GRUPPE B *Ayurveda Yogatherapie im Alltag*, Dr. Hedwig Gupta
+  * GRUPPE C *Herausforderungen und Lösungsansätze
+im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
 * 19.00-20.30 ABENDPAUSE
 * 20.30-22.00 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
 Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
 * 22.00 AUSKLANG DES TAGES
+
+<a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
 # Sonntag, 18. Oktober 2020
 * 10.00-11.00 **KUNST UND BILDUNG, EIN REISEFÜHRER
@@ -66,3 +67,5 @@ Verdichtetes Bauen im alpinen Raum –
 kein Wiederspruch! Zweisimmen CH
 * 15.00-15.30 AUSSPRACHE
 * 15.30–16.00 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+
+<a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
