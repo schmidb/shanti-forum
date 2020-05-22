@@ -11,13 +11,20 @@ Das Shanti-Forum richtet sich inbesondere an Alle Interessierten an der Förderu
 Therapeuten, Pflegepersonal, Pädagogen, Lehrpersonen,
 Kunstschaffende, Eltern, Erzieher, …
 
-BEMERKUNG: EMR/ASCA konform
-
 # Preise
 bald
 
 # Anmeldung
-bald möglich
+<form action="https://formspree.io/meqrebjr" method="POST">
+  Vorname / Name: <input type="text" name="name" value="Max Mustermann">
+  Strasse: <input type="text" name="strasse">
+  PLZ, Ort: <input type="text" name="ort">
+  Land: <input type="text" name="land">
+  Telefonnummer: <input type="number" name="telefon">
+  Email: <input type="email" name="_replyto">
+  Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
+  <input type="submit" value="Send" class="btn btn--primary">
+</form>
 
 # Anmeldeschluss 15.09.2020
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
