@@ -11,11 +11,12 @@ Das Shanti-Forum richtet sich inbesondere an Alle Interessierten an der Förderu
 Therapeuten, Pflegepersonal, Pädagogen, Lehrpersonen,
 Kunstschaffende, Eltern, Erzieher, …
 
-# Preise
-bald
-
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
+<p><select name="preis" size="1">
+<option>Frühbucherrabat bis 30.06.2020 - XXX CHF / XXX €</option>
+<option>Normalpreis bis 19.09.2020 - XXX CHF / XXX €</option>
+</select></p>
   Vorname / Name: <input type="text" name="name" value="Max Mustermann">
   Strasse: <input type="text" name="strasse">
   PLZ, Ort: <input type="text" name="ort">
