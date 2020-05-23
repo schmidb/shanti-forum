@@ -16,6 +16,10 @@ feature_row:
     Er startete mit einigen Ärzten eine einzigartige, gesamtheitliche Forschung aller umweltbedingten Faktoren und konnte im direkten Gespräch mit kranken Menschen, intuitiv alle wesentlichen Ursachen für die Entstehung nahezu jeder Erkrankung verifizieren. Er entwickelte ein einfach anwendbares Lösungskonzept, welches die schlimmsten Ursachen neutralisiert und damit das Fundament von Gesundheit stabilisiert. Er konnte nachweislich vielen tausend Menschen das Leben verlängern und die Lebensqualität deutlich verbessern.
     <br><br>
     Bernd klärt auf, warum altbewährte Heilmethoden zunehmend an Nachhaltigkeit verlieren und wie man diesen Trend umkehren kann, indem er die Reinheit der Schöpfungskräfte den Menschen wieder zuführt. Diese sind der wichtigste Garant für gesundes Leben."
+    url: "http://terrapro.eu"
+    btn_label: "http://terrapro.eu"
+    btn_class: "btn--primary"
+
 #  - image_path: /assets/referenten/bio-photo.jpg
 #    title: "Sascha Schär"
 #    excerpt: "n11 Achitekt REG A/SIA, Holz100 Bauphilosopie ohne Heizung, Verdichtetes Bauenim alpinen Raum - kein Wiederspruch, Zweisimmen CH"
@@ -42,10 +46,11 @@ feature_row:
   Lehrern, Therapeuten und Ärzten durch, hält Vorträge
     und Seminare im In- und Ausland, berät Schulen und
   gibt Gruppen und Einzelberatungen."
+
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Doris Luginbühl"
     excerpt: "Mutter von 3 Kinder, Dipl. Hebamme,
-    				Schwangerschafts- und Familienberatung, Wochenbettbetreuung, Verarbeitung Geburt, Paarberatung, Pilates, Rückbildungsgymnastik, 
+    				Schwangerschafts- und Familienberatung, Wochenbettbetreuung, Verarbeitung Geburt, Paarberatung, Pilates, Rückbildungsgymnastik,
     <br><br>
     				Doris Luginbühl engagiert sich seit vielen Jahren,
     				setzt sich ein und kämpft für den Schutz und die
@@ -61,38 +66,43 @@ feature_row:
     				'Ecole Equestre Esprit de la Légèrete',
     				Sie lebt in einem Bauernhaus in der Nähe von
     				Courtion CH"
+
   - image_path: /assets/referenten/schmidberger.jpg
     title: "Miriam & Markus Schmidberger"
     excerpt: "Gelebte Familien Transformation, Neue Strukturen als Familie und Individuum, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE"
     url: "https://familien-transformation.de"
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
+
   - image_path: /assets/referenten/gupta.jpg
     title: "Dr. med. Hedwig H. Gupta"
     excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"  
-    url: "https://www.vidya-sagar.de/"
-    btn_label: "https://www.vidya-sagar.de/"
+    url: "https://www.vidya-sagar.de"
+    btn_label: "https://www.vidya-sagar.de"
     btn_class: "btn--primary"
+
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
     excerpt: "Konzertpianist und Dozent an der Hochschule der Künste Bern, Bern CH"
-    url: "https://www.aki-hoffmann.com/"
-    btn_label: "https://www.aki-hoffmann.com/"
+    url: "https://www.aki-hoffmann.com"
+    btn_label: "https://www.aki-hoffmann.com"
     btn_class: "btn--primary"
+
   - image_path: /assets/referenten/maurer.jpg
     title: "Stefan Maurer"
     excerpt: "Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künsterkollektivs MaMi, Projekte im Bereich Kunst, Bildung und Öffentlichkeit, Bern CH"
-    url: "https://maust.ch/"
-    btn_label: "https://maust.ch/"
+    url: "https://maust.ch"
+    btn_label: "https://maust.ch"
     btn_class: "btn--primary"
+
   - image_path: /assets/referenten/sasi.jpg
     title: "Sasikumar Tharmalingam"
     excerpt: "Hindupriester, Seelsorger, interreligiöser & interkultureller Mentor (BE/FAH),Leiter Ayurvedische Küche, Haus der Religionen, Bern CH"
-    url: "https://www.haus-der-religionen.ch/"
-    btn_label: "https://www.haus-der-religionen.ch/"
+    url: "https://www.haus-der-religionen.ch"
+    btn_label: "https://www.haus-der-religionen.ch"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/shanti.jpg
     title: "Shanti Bosshart"
     excerpt: "Initiatorin des Ersten Internationalen Shanti Forum 2020, Organisation & Mentorin"
     url: "http://shanti-yoga.ch"
