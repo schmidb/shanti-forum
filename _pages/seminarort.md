@@ -24,6 +24,21 @@ E-Mail: hallo@seinz.de<br>
 
 [https://www.seinz.de/](https://www.seinz.de/){:target="_blank"}
 
+# Hotelkosten und Vollpension (Tagespauschale)
+Die Kosten für das Forum verstehen sich exklusive Hotelkosten und
+exklusive Vollpension.
+
+Im Zusammenhang mit dem SHANTI-FORUM werden im SEINZ Widsom
+Resort Hotel Tagespauschalen, beinhaltend ­Übernachtung im Doppel-
+bzw. Einzelzimmer sowie Vollpension mit hochwertiger, biologisch frisch
+zubereiteter veganPlus Buffet-Küche angeboten:
+* EUR 109 pro Person und Nacht im Doppelzimmer Classic bei ­Doppelbelegung
+* EUR 129 pro Person und Nacht im Einzelzimmer Classic bei Einzelbelegung
+
+Anmeldung und Bezahlung direkt an SEINZ Wisdom Resort<br>
+Telefon: +498845970<br>
+E-Mail: hallo@seinz.de
+
 # Anreise
 Wir empfehlen die Anreiseempfehlungen auf der Webseite des SeinZ Wisdom Resorts: [https://www.seinz.de/](https://www.seinz.de/){:target="_blank"} (erste Seite ganz unten)
 

@@ -14,7 +14,17 @@ im	Einklang	sind.
 # Freitag, 16. Oktober 2020
 * 18.00 ANKUNFT MIT ABENDESSEN
 * 20.00-20.15 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
-* 20.15-21.15 **XXXXXXX**, Bernd Fuchs,
+* 20.15-21.15 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
+FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
+übergreifende Umweltforschung.
+In Zusammenarbeit mit einigen Ärzten realisierte er eine einzigartige, gesamtheitliche
+Forschung aller umweltbedingten Faktoren
+und konnte die wesentlichen Ursachen für die
+Entstehung vieler Erkrankungen verifiziert.
+Er entwickelte ein einfach anwendbares
+Lösungskonzept das den Menschen wie-
+der mit der Ur-Schöpferkraft verbindet,
+Hopfgarten A
 * 21.15-21.45 AUSSPRACHE
 * 21.45-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
 
@@ -38,8 +48,8 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 17.00-18.30 **DREI ARBEITSGRUPPEN**
   * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
   * GRUPPE B *Ayurveda Yogatherapie im Alltag*, Dr. Hedwig Gupta
-  * GRUPPE C *Herausforderungen und Lösungsansätze
-im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
+  * GRUPPE C *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
+  * GRUPPE D *Schöpfungs-Physik und Heilmethoden*, Bernd Fuch
 * 19.00-20.30 ABENDPAUSE
 * 20.30-22.00 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
 Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
@@ -60,12 +70,7 @@ Seelsorger, interreligiöser & interkulturel-
 ler Mentor (BE. FAH) Leiter Ayurvedische
 Küche, Haus der Religionen, Bern CH
 * 12.30-13.00 AUSSPRACHE
-* 13.00-14.00 PAUSE
-* 14.00-15.00 **HOLZ100, BAUPHILOSOPHIE OHNE HEIZUNG**,
-Sascha Schär, n11 Architekten REG A /SIA
-Verdichtetes Bauen im alpinen Raum –
-kein Wiederspruch! Zweisimmen CH
-* 15.00-15.30 AUSSPRACHE
-* 15.30–16.00 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 13.00-13.15 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 13.30 GEMEINSAMES MITTAGESSEN
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
