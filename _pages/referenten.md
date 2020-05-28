@@ -47,7 +47,7 @@ feature_row:
     und Seminare im In- und Ausland, berät Schulen und
   gibt Gruppen und Einzelberatungen."
 
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/doris.jpg
     title: "Doris Luginbühl"
     excerpt: "Mutter von 3 Kinder, Dipl. Hebamme,
     				Schwangerschafts- und Familienberatung, Wochenbettbetreuung, Verarbeitung Geburt, Paarberatung, Pilates, Rückbildungsgymnastik,
