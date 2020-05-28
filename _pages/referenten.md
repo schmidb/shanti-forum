@@ -43,8 +43,7 @@ feature_row:
     und deren Wechselseitigkeit in neuer Weise verstehen
     <br><br>
     Heute führt Wolfgang Findeisen Schulungen u.a. mit
-  Lehrern, Therapeuten und Ärzten durch, hält Vorträge
-    und Seminare im In- und Ausland, berät Schulen und
+  Lehrern, Therapeuten und Ärzten durch, hält Vorträge und Seminare im In- und Ausland, berät Schulen und
   gibt Gruppen und Einzelberatungen."
 
   - image_path: /assets/referenten/doris.jpg
