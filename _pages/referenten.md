@@ -89,7 +89,30 @@ feature_row:
 
   - image_path: /assets/referenten/maurer.jpg
     title: "Stefan Maurer"
-    excerpt: "Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künsterkollektivs MaMi, Projekte im Bereich Kunst, Bildung und Öffentlichkeit, Bern CH"
+    excerpt: "
+    Stefan Maurer, geb. 1976 in Bern Schweiz, ist freischaffender Künstler und Kunstvermittler. Er arbeitet
+mit den Medien Fotografie, Film und interdisziplinär. Seine Projekte sind partizipativ und ortsbezogen
+und bewegen sich an der Schnittstelle Kunst, Bildung und Öffentlichkeit.<br>
+Auf individuellen Kunst- und Studienreisen lernte er unterschiedliche Lebenswirklichkeiten kennen. Die
+praktische Erfahrung und der Transfer in den eigenen Lebensalltag und das künstlerische Schaffen
+waren stets zentrales Anliegen. In seinen Arbeiten schafft er reale oder imaginäre Räume,
+Erlebniswelten, worin religions- und dogmafreie spirituelle Erlebnisse möglich sind, die in psychisches
+und seelisches Wachstum münden.<br>
+Das Multimedia-Referat «Auf der Suche nach dem verborgenen Land Belowodje» führt in einen solchen
+imaginären Raum. Wir begeben uns auf die Spuren einer uralten Legende vom geheimnisvollen,
+gelobten Land Belowodje, das im Altai in Sibirien verborgen liegt. Belowodje sei ein Reich voller Freude,
+Liebe und Inspiration, wo Menschen leben, die allwissend und unsterblich sind. In antiken Schriften
+finden sich Hinweise auf die Existenz.<br>
+Nach seltsamen Träumen und einem inneren Ruf, machte sich Maurer 2011 auf die Spuren der Legende,
+bereiste den Altai, pilgerte zum heiligen Berg Belucha, zum sagenumwobenen Prinzessinengrab auf dem
+Plateau Ukok, bis zum Baikal See, dem Auge der Welt. Am Fuss des heiligen Berg Belucha hatte Maurer
+ein transformierendes Erlebnis, als ihm klar wurde, dass er seine eigene Seele durchwanderte und alles,
+was geschah, mit seiner ganz persönlichen Lebenswelt zu tun hatte. So wurde diese Reise zu einer
+selbsterfüllenden Prophezeiung.<br>
+Die Erlebnisse hat Maurer mittels Fotografie, Film und Tonaufnahmen künstlerisch und dokumentarisch
+aufgearbeitet und erzählt darüber in einem Multimedia-Referat. Seien sie willkommen auf der Reise in
+das geheimnisvolle, gelobte Land und treten sie ein in einen Raum, der das Spiegelbild der eigenen Seele
+ist."
     url: "https://maust.ch"
     btn_label: "https://maust.ch"
     btn_class: "btn--primary"
