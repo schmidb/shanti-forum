@@ -124,12 +124,28 @@ ist."
     btn_label: "https://www.haus-der-religionen.ch"
     btn_class: "btn--primary"
 
+  - image_path: /assets/referenten/bio-photo.jpg
+    title: "Lumira Weidner"
+    excerpt: "LUMIRA ist wohl die bekannteste Heilerin, Buchautorin, Bestseelerautorin, Seminarleiterin, im deutschsprachigen Raum."
+    url: "http://lumira.de"
+    btn_label: "http://lumira.de"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/referenten/bio-photo.jpg
+    title: "SEOM"
+    excerpt: "SEOM"
+    url: "http://seom.de"
+    btn_label: "http://seom.de"
+    btn_class: "btn--primary"
+
+
   - image_path: /assets/referenten/shanti.jpg
     title: "Shanti Bosshart"
     excerpt: "Initiatorin des Ersten Internationalen Shanti Forum 2020, Organisation & Mentorin"
     url: "http://shanti-yoga.ch"
     btn_label: "http://shanti-yoga.ch"
     btn_class: "btn--primary"
+
 
 ---
 
