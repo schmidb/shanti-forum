@@ -73,12 +73,12 @@ feature_row:
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/gupta.jpg
-    title: "Dr. med. Hedwig H. Gupta"
-    excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"  
-    url: "https://www.vidya-sagar.de"
-    btn_label: "https://www.vidya-sagar.de"
-    btn_class: "btn--primary"
+#  - image_path: /assets/referenten/gupta.jpg
+#    title: "Dr. med. Hedwig H. Gupta"
+#    excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"  
+#    url: "https://www.vidya-sagar.de"
+#    btn_label: "https://www.vidya-sagar.de"
+#    btn_class: "btn--primary"
 
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
@@ -124,9 +124,14 @@ ist."
     btn_label: "https://www.haus-der-religionen.ch"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/bio-photo.jpg
+  - image_path: /assets/referenten/lumira.jpg
     title: "Lumira Weidner"
-    excerpt: "LUMIRA ist wohl die bekannteste Heilerin, Buchautorin, Bestseelerautorin, Seminarleiterin, im deutschsprachigen Raum."
+    excerpt: "
+    Nur wenn du in deiner Kraft bist und lebst, kannst du dein Leben wahrhaftig leben und erschaffen. Die innere Kraft entsteht in dir, also durch Aufmerksamkeit nach Innen und nicht nach außen.<br>
+In unserer täglichen Routine denken wir wenig darüber nach, dass wir durch unsere Gegenwart unsere Zukunft erschaffen, und Zwar körperlich, geistig und seelisch. Dabei sind wir Menschen schöpferische Wesen, die täglich Szenarium unseres Lebens schreiben. Und wir selbst spielen die Hauptrolle in diesem Stück. Jeden Tag und jede Minute können wir uns immer anders aufs Neue entscheiden, etwas zu sein oder auch nicht, etwas mit zu spielen oder aus dem Spiel auszusteigen. Wir spielen und erschaffen unsere Welt oder die Welt und äußere Umstände spielen mit uns und formen uns! Das heißt einige spielen ihr Leben bewusst und die anderen lassen sich in Spiel von Anderen ziehen und leben nach den Spielregeln von anderen, leben dadurch nicht ihre eigene Bestimmung.<br>
+Wir als Schöpferwesen haben wahrhaftig schöpferische Instrumente, magische Utensilien, welche wir in uns tragen. Nun geht es darum, die Verantwortung für unser Leben zu übernehmen und uns selbst und die Welt, um uns damit zu heilen. Die Instrumente sind: Gedanken, Absicht, Wort, Gefühl, Tat.<br>
+Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten werden Taten. Oder – kontrolliere deine Gedanken, so kontrollierst du deine Realität! Am Anfang war das Wort.
+"
     url: "http://lumira.de"
     btn_label: "http://lumira.de"
     btn_class: "btn--primary"
