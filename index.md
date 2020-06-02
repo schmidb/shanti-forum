@@ -30,8 +30,7 @@ stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder 
 Aufbauen und Weiterentwickeln sind.
 
 Themen werden sein:
-- Mensch-Kosmos, Wir lassen uns hineinführen, hinein fühlen, in die
-  Zusammenhänge Mensch-Kosmos.
+- Wiederentdeckt – der Goldene, alles wieder vereinende Schlüssel für ein langes, gesundes Leben. „Sind wir nur Biochemie – oder ist da noch viel mehr“?
 - Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
   Spannungsfeld von Auf- und Abbauenden Kraftfelder
 - Heilwesen - Überwindung von Gräben auf dem Gebiet der Medizin,
@@ -40,8 +39,6 @@ Themen werden sein:
   einer sich wandelnden Welt
 - Gelebte Familien Transformation, neue zukunftsorientiere Formen als Familie
   und Individuum
-- Wirtschaft Wohnen "Holz100", Bauphilosopie ohne Heizung, Verdichtes Bauen im
-  alpinen Raum - kein Wiederspruch!
 - Kunst und Bildung, Ein Reiseführer ins verborgene Land Belowodje
 - Interdisziplinäre Zusammenarbeit, verschiedener Religionen; gelebtes Beispiel
 - Musik Klavierkonzert, "Musik für`s Herz von romantisch bis groovig"

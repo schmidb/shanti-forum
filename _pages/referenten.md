@@ -68,7 +68,8 @@ feature_row:
 
   - image_path: /assets/referenten/schmidberger.jpg
     title: "Miriam & Markus Schmidberger"
-    excerpt: "Gelebte Familien Transformation, Neue Strukturen als Familie und Individuum, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE"
+    excerpt: "Offen und ehrlich teilen wir unseren Weg und unsere Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br>
+Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als Paar wie auch mit unseren Kindern. Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen. Ein ehrlicher und konstruktiver Umgang miteinander als Paar und mit unseren Kindern hilft uns dabei."
     url: "https://familien-transformation.de"
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
@@ -82,7 +83,9 @@ feature_row:
 
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
-    excerpt: "Konzertpianist und Dozent an der Hochschule der Künste Bern, Bern CH"
+    excerpt: "
+    Aki Hoffmann bewegt in der Welt der Künste viel. Seine grenzenlosen Improvisationen auf dem Flügel, Musik die inspiriert ist von Themen aus den Bereichen Tanz, Film und Gestaltung, öffnen dem Zuhörer einen wunderbar weiten Raum, eine Klangreise ins Unbekannte. Aki Hoffmann spielt Konzerte in Klassik und Jazz/Pop und in Crossoverprojekten.<br>
+An der Hochschule der Künste Bern ist er Dozent für Klavier und Klavierimprovisationen. "
     url: "https://www.aki-hoffmann.com"
     btn_label: "https://www.aki-hoffmann.com"
     btn_class: "btn--primary"
@@ -130,17 +133,26 @@ ist."
     Nur wenn du in deiner Kraft bist und lebst, kannst du dein Leben wahrhaftig leben und erschaffen. Die innere Kraft entsteht in dir, also durch Aufmerksamkeit nach Innen und nicht nach außen.<br>
 In unserer täglichen Routine denken wir wenig darüber nach, dass wir durch unsere Gegenwart unsere Zukunft erschaffen, und Zwar körperlich, geistig und seelisch. Dabei sind wir Menschen schöpferische Wesen, die täglich Szenarium unseres Lebens schreiben. Und wir selbst spielen die Hauptrolle in diesem Stück. Jeden Tag und jede Minute können wir uns immer anders aufs Neue entscheiden, etwas zu sein oder auch nicht, etwas mit zu spielen oder aus dem Spiel auszusteigen. Wir spielen und erschaffen unsere Welt oder die Welt und äußere Umstände spielen mit uns und formen uns! Das heißt einige spielen ihr Leben bewusst und die anderen lassen sich in Spiel von Anderen ziehen und leben nach den Spielregeln von anderen, leben dadurch nicht ihre eigene Bestimmung.<br>
 Wir als Schöpferwesen haben wahrhaftig schöpferische Instrumente, magische Utensilien, welche wir in uns tragen. Nun geht es darum, die Verantwortung für unser Leben zu übernehmen und uns selbst und die Welt, um uns damit zu heilen. Die Instrumente sind: Gedanken, Absicht, Wort, Gefühl, Tat.<br>
-Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten werden Taten. Oder – kontrolliere deine Gedanken, so kontrollierst du deine Realität! Am Anfang war das Wort.
-"
+Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten werden Taten. Oder – kontrolliere deine Gedanken, so kontrollierst du deine Realität! Am Anfang war das Wort."
     url: "http://lumira.de"
     btn_label: "http://lumira.de"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/bio-photo.jpg
-    title: "SEOM"
-    excerpt: "SEOM"
-    url: "http://seom.de"
-    btn_label: "http://seom.de"
+  - image_path: /assets/referenten/seom.jpg
+    title: "SEOM - Patrick Kammerer"
+    excerpt: "
+    Der Song Writer, Künstler, Referent, Rapper und Autor 'SEOM', mit bürgerlichem Namen Patrick Kammerer, schafft es mit seiner Musik und seinen Texten Menschen tief im Herzen zu berühren.<br>
+SEOM sieht sein Schaffen als Begleitung für die Menschen auf dem Weg zu sich selbst. Jeder seiner Songs berührt auf eine eigene Art. Sogar die Menschen, die nicht viel mit dieser Musikrichtung anfangen können, bestätigen immer wieder die tiefe Verbundenheit, welche sie durch seine Texte empfinden und nachhaltig fühlen können.<br>
+Somit sieht SEOM sich als einen Boten „im Zeichen des Guten“ und Brückenbauer zwischen den Welten. Getreu dieser Vision hat SEOM bereits 20 Alben unter verschiedensten Künstlernamen veröffentlicht und nun sein neues Album Smaragde erschaffen.<br>
+Der Mut Welten zu verbinden und sich mit allen Facetten zu zeigen, um den Hörern zugleich Kraft, Hoffnung und Inspiration zu schenken, ist und bleibt eine seiner treibenden Kräfte.<br>
+Seine Worte erinnern an das Wesentliche im Leben. SEOM sieht die Höhen und die Tiefen des Lebens als Lektionen und verarbeitet sie in seinen Songs. Er versucht die vermeintlichen Schattenseiten des Lebens nicht zu verdrängen, sondern lässt sie zu, lernt daraus und schöpft Kreativität!<br>
+Seine Ausdrucksweise ist einzigartig, feinfühlig, intelligent und stets konstruktiv.
+<br>
+SEOM´s Absicht ist es, mit seiner Musik einen Unterschied im Leben anderer Menschen bewirken zu können, ihnen zu helfen, sich zu erinnern wer sie wirklich sind und sie zu ermutigen, zu stärken und Kraft zu spenden. Die Menschen mit seiner Musik und seinen Büchern zu berühren und zu begleiten ist ein heiliges und hingebungsvolles Motiv seines Handelns. SEOMs Ziel ist es, sein Wissen zu teilen, ohne zu predigen und seine Hörer zu berühren und zu bereichernden Erkenntnissen zu führen, indem er ihnen Wege und Türen aufzeigt, die sie selbst beschreiten können. Seine Musik ist seine Berufung, eine Herzenssache und ein kreatives Feld, in dem er sich, seine Bestimmung und seine Träume verwirklicht.<br>
+Stets voller S-ensitivität, E-nergie, O-rientierung und M-ut!<br>
+Denn das ist SEOM!"
+    url: "https://seommusic.de/"
+    btn_label: "https://seommusic.de/"
     btn_class: "btn--primary"
 
 
