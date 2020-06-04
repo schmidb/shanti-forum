@@ -141,16 +141,41 @@ Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten 
   - image_path: /assets/referenten/seom.jpg
     title: "SEOM - Patrick Kammerer"
     excerpt: "
-    Der Song Writer, Künstler, Referent, Rapper und Autor 'SEOM', mit bürgerlichem Namen Patrick Kammerer, schafft es mit seiner Musik und seinen Texten Menschen tief im Herzen zu berühren.<br>
-SEOM sieht sein Schaffen als Begleitung für die Menschen auf dem Weg zu sich selbst. Jeder seiner Songs berührt auf eine eigene Art. Sogar die Menschen, die nicht viel mit dieser Musikrichtung anfangen können, bestätigen immer wieder die tiefe Verbundenheit, welche sie durch seine Texte empfinden und nachhaltig fühlen können.<br>
-Somit sieht SEOM sich als einen Boten „im Zeichen des Guten“ und Brückenbauer zwischen den Welten. Getreu dieser Vision hat SEOM bereits 20 Alben unter verschiedensten Künstlernamen veröffentlicht und nun sein neues Album Smaragde erschaffen.<br>
-Der Mut Welten zu verbinden und sich mit allen Facetten zu zeigen, um den Hörern zugleich Kraft, Hoffnung und Inspiration zu schenken, ist und bleibt eine seiner treibenden Kräfte.<br>
-Seine Worte erinnern an das Wesentliche im Leben. SEOM sieht die Höhen und die Tiefen des Lebens als Lektionen und verarbeitet sie in seinen Songs. Er versucht die vermeintlichen Schattenseiten des Lebens nicht zu verdrängen, sondern lässt sie zu, lernt daraus und schöpft Kreativität!<br>
-Seine Ausdrucksweise ist einzigartig, feinfühlig, intelligent und stets konstruktiv.
-<br>
-SEOM´s Absicht ist es, mit seiner Musik einen Unterschied im Leben anderer Menschen bewirken zu können, ihnen zu helfen, sich zu erinnern wer sie wirklich sind und sie zu ermutigen, zu stärken und Kraft zu spenden. Die Menschen mit seiner Musik und seinen Büchern zu berühren und zu begleiten ist ein heiliges und hingebungsvolles Motiv seines Handelns. SEOMs Ziel ist es, sein Wissen zu teilen, ohne zu predigen und seine Hörer zu berühren und zu bereichernden Erkenntnissen zu führen, indem er ihnen Wege und Türen aufzeigt, die sie selbst beschreiten können. Seine Musik ist seine Berufung, eine Herzenssache und ein kreatives Feld, in dem er sich, seine Bestimmung und seine Träume verwirklicht.<br>
-Stets voller S-ensitivität, E-nergie, O-rientierung und M-ut!<br>
-Denn das ist SEOM!"
+    Rap muss nicht hart und dunkel sein. Positive, bewusste Texte sind seit vielen Jahren auf dem
+Vormarsch – darunter die von SEOM. Modern und tiefgründing, fresh und energiegeladen
+gibt er Deutschrap eine neue Note.<br>
+Geprägt von einer sehr bewussten, freudvollen Lebensanschauung haben seine Texte die
+Leben vieler Menschen verändert. Aus allen Altersgruppen erhält SEOM oft das Feedback:
+'Eigentlich kann ich mit HipHop gar nichts anfangen, aber deine Songs berühren mich ganz
+tief.'<br>
+*Ich habe nie nach unten geschaut
+und nicht auf Wunder gehofft –
+ich hab an Wunder geglaubt.
+(Spuren, 2017)*<br>
+*Find in dir selbst die Macht,
+es ist dein Geist, der deine Welt erschafft.
+(Spirit, 2014)*<br>
+Songs wie Spirit lenken den
+Blick auf unsere innere Kraft
+und die Möglichkeiten, das
+Leben zu gestalten. SEOMs
+Spiritualität ist ganz
+bodenständig in den Songs
+verankert. Denn er möchte
+zeigen, dass alles Spirituelle
+im Alltag zu finden ist – und
+gar nicht lebensfern und
+abgehoben sein muss.
+Patrick Kammerer (36) ist als
+Songwriter, Rapper, Speaker
+und Autor unter dem Motto
+Im Zeichen des Guten
+unterwegs.<br>
+Musik ist für ihn als Sprache des Herzens der beste Weg, um Menschen zu erreichen.
+Den Rückmeldungen zufolge gelingt ihm das ziemlich gut – er ist ein Lifecoach durch Musik.
+Seit 2018 veröffentlicht er über sein eigenes Label SEOM MUSIC. Voller Freiheit kann er
+seine künstlerische Vision entfalten und seine Träume leben. Er macht täglich vor, was er
+anderen vermitteln möchte."
     url: "https://seommusic.de/"
     btn_label: "https://seommusic.de/"
     btn_class: "btn--primary"

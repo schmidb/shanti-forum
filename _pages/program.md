@@ -12,9 +12,9 @@ zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
 
 # Freitag, 16. Oktober 2020
-* 18.00 ANKUNFT MIT ABENDESSEN
-* 20.00-20.15 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
-* 20.15-21.15 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
+* 18.30 ABENDESSEN
+* 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
 FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
 übergreifende Umweltforschung.
 In Zusammenarbeit mit einigen Ärzten realisierte er eine einzigartige, gesamtheitliche
@@ -25,52 +25,52 @@ Er entwickelte ein einfach anwendbares
 Lösungskonzept das den Menschen wie-
 der mit der Ur-Schöpferkraft verbindet,
 Hopfgarten A
-* 21.15-21.45 AUSSPRACHE
-* 21.45-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
+* 21.00-21.30 AUSSPRACHE
+* 21.30-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
 # Samstag, 17. Oktober 2020
-* 10.00-11.00 **DAS WIRKEN DES ÄTHERISCHEN IM ÜBER-
+* 9.00-10.00 **DAS WIRKEN DES ÄTHERISCHEN IM ÜBER-
 UND UNTERSINNLICHEN. DER MENSCH IM SPANNUNGSFELD VON
 AUF- UND ABBAUENDEN KRAFTFELDERN**, Wolfgang Findeisen, ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive
 Zusammenarbeit mit Ärzten. Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE
-* 11.00-11.30 AUSSPRACHE
-* 11.30-11.45 PAUSE
-* 11.45-12.15 **DIE KRAFT DER ENTFALTUNG DER
+* 10.00-10.30 AUSSPRACHE
+* 10.30-10.45 PAUSE
+* 10.45-11.15 **DIE KRAFT DER ENTFALTUNG DER
 NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Familienbetreuung, *Ecole Equestre Esprit de la Légèreté*, Courtion CH
-* 12.00-12.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
-* 12.45-13.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
-* 13.15-15.00 PAUSE
-* 15.00-16.00 **AYURVEDA UND SCHULMEDIZIN ALTES UND NEUES WISSEN VERBINDEN**, Hedwig H. Gupta, Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE
+* 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
+* 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
+* 12.30-13.30 MITTAGESSEN
+* 14.30-15.00 **SEOM MUSIC *FIND IN DIR SELBST DIE MACHT – ES IST DEIN GEIST, DER DEINE WELT ERSCHAFFT* (SPIRIT, 2014)**, SEOM (Patrick Kammerer) ist Sänger, Autor, Songwriter, Lifecoach durch Musik, Special-Videoaufnahme zum Shanti-Forum 2020
+* 15.00-16.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
 * 16.00-16.30 AUSSPRACHE
 * 16.30-16.45 PAUSE
-* 17.00-18.30 **DREI ARBEITSGRUPPEN**
-  * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
-  * GRUPPE B *Ayurveda Yogatherapie im Alltag*, Dr. Hedwig Gupta
+* 17.00-18.00 **VIER ARBEITSGRUPPEN**
+  * GRUPPE A *Schöpfungs-Physik und Heilmethoden*, Bernd Fuch
+  * GRUPPE B *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
   * GRUPPE C *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
-  * GRUPPE D *Schöpfungs-Physik und Heilmethoden*, Bernd Fuch
-* 19.00-20.30 ABENDPAUSE
-* 20.30-22.00 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
+  * GRUPPE D *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
+* 18.30-20.00 ABENDPAUSE
+* 20.00-21.30 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
 Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
-* 22.00 AUSKLANG DES TAGES
+* 21.30 AUSKLANG DES TAGES
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
 # Sonntag, 18. Oktober 2020
-* 10.00-11.00 **KUNST UND BILDUNG, EIN REISEFÜHRER
+* 9.00-10.00 **KUNST UND BILDUNG, EIN REISEFÜHRER
 INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künstlerkollektivs MaMi,
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
-* 11.00-11.30 AUSSPRACHE
-* 11.30-12.30 **INTERDISZIPLINÄRE ZUSAMMEN-
-ARBEIT VERSCHIEDENER RELIGIONEN**
+* 10.00-10.30 AUSSPRACHE
+* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMEN-ARBEIT VERSCHIEDENER RELIGIONEN**
 Sasikumar Tharmalingam, Hindupriester,
 Seelsorger, interreligiöser & interkulturel-
 ler Mentor (BE. FAH) Leiter Ayurvedische
 Küche, Haus der Religionen, Bern CH
-* 12.30-13.00 AUSSPRACHE
-* 13.00-13.15 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
-* 13.30 GEMEINSAMES MITTAGESSEN
+* 11.30-12.00 AUSSPRACHE
+* 12.00-12.15 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 12.30 MITTAGESSEN
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
