@@ -67,9 +67,10 @@ feature_row:
     				Courtion CH"
 
   - image_path: /assets/referenten/schmidberger.jpg
-    title: "Miriam & Markus Schmidberger"
-    excerpt: "Offen und ehrlich teilen wir unseren Weg und unsere Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br>
-Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als Paar wie auch mit unseren Kindern. Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen. Ein ehrlicher und konstruktiver Umgang miteinander als Paar und mit unseren Kindern hilft uns dabei."
+    title: "Miriam & Markus Schmidberger mit 4 Kindern"
+    excerpt: "Miriam und Markus Schmidberger leben Familie als Kooperations-Gemeinschaft und reisen mit ihren Kindern zwischen Berlin und der Welt. Offen teilen Sie ihren Weg und ihre Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br><br>
+Ihr Ziel ist ein offener und authentischer Umgang untereinander als Paar wie auch mit ihren Kindern. *'Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen.'* Ein konstruktiver Umgang miteinander als Paar und mit ihren Kindern hilft ihnen dabei neue Wege zu gehen. <br><br>
+Durch Coachings, Workshops und Seminare teilen Sie ihre Erfahrung mit Eltern, Familien und Firmen die wirkliche Familienfreundlichkeit anstreben."
     url: "https://familien-transformation.de"
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
@@ -84,7 +85,7 @@ Unser Ziel ist ein offener, ehrlicher und authentischer Umgang untereinander als
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
     excerpt: "
-    Aki Hoffmann bewegt in der Welt der Künste viel. Seine grenzenlosen Improvisationen auf dem Flügel, Musik die inspiriert ist von Themen aus den Bereichen Tanz, Film und Gestaltung, öffnen dem Zuhörer einen wunderbar weiten Raum, eine Klangreise ins Unbekannte. Aki Hoffmann spielt Konzerte in Klassik und Jazz/Pop und in Crossoverprojekten.<br>
+    Aki Hoffmann bewegt in der Welt der Künste viel. Seine grenzenlosen Improvisationen auf dem Flügel, Musik die inspiriert ist von Themen aus den Bereichen Tanz, Film und Gestaltung, öffnen dem Zuhörer einen wunderbar weiten Raum, eine Klangreise ins Unbekannte. Aki Hoffmann spielt Konzerte in Klassik und Jazz/Pop und in Crossoverprojekten.<br><br>
 An der Hochschule der Künste Bern ist er Dozent für Klavier und Klavierimprovisationen. "
     url: "https://www.aki-hoffmann.com"
     btn_label: "https://www.aki-hoffmann.com"
@@ -95,23 +96,23 @@ An der Hochschule der Künste Bern ist er Dozent für Klavier und Klavierimprovi
     excerpt: "
     Stefan Maurer, geb. 1976 in Bern Schweiz, ist freischaffender Künstler und Kunstvermittler. Er arbeitet
 mit den Medien Fotografie, Film und interdisziplinär. Seine Projekte sind partizipativ und ortsbezogen
-und bewegen sich an der Schnittstelle Kunst, Bildung und Öffentlichkeit.<br>
+und bewegen sich an der Schnittstelle Kunst, Bildung und Öffentlichkeit.<br><br>
 Auf individuellen Kunst- und Studienreisen lernte er unterschiedliche Lebenswirklichkeiten kennen. Die
 praktische Erfahrung und der Transfer in den eigenen Lebensalltag und das künstlerische Schaffen
 waren stets zentrales Anliegen. In seinen Arbeiten schafft er reale oder imaginäre Räume,
 Erlebniswelten, worin religions- und dogmafreie spirituelle Erlebnisse möglich sind, die in psychisches
-und seelisches Wachstum münden.<br>
+und seelisches Wachstum münden.<br><br>
 Das Multimedia-Referat «Auf der Suche nach dem verborgenen Land Belowodje» führt in einen solchen
 imaginären Raum. Wir begeben uns auf die Spuren einer uralten Legende vom geheimnisvollen,
 gelobten Land Belowodje, das im Altai in Sibirien verborgen liegt. Belowodje sei ein Reich voller Freude,
 Liebe und Inspiration, wo Menschen leben, die allwissend und unsterblich sind. In antiken Schriften
-finden sich Hinweise auf die Existenz.<br>
+finden sich Hinweise auf die Existenz.<br><br>
 Nach seltsamen Träumen und einem inneren Ruf, machte sich Maurer 2011 auf die Spuren der Legende,
 bereiste den Altai, pilgerte zum heiligen Berg Belucha, zum sagenumwobenen Prinzessinengrab auf dem
 Plateau Ukok, bis zum Baikal See, dem Auge der Welt. Am Fuss des heiligen Berg Belucha hatte Maurer
 ein transformierendes Erlebnis, als ihm klar wurde, dass er seine eigene Seele durchwanderte und alles,
 was geschah, mit seiner ganz persönlichen Lebenswelt zu tun hatte. So wurde diese Reise zu einer
-selbsterfüllenden Prophezeiung.<br>
+selbsterfüllenden Prophezeiung.<br><br>
 Die Erlebnisse hat Maurer mittels Fotografie, Film und Tonaufnahmen künstlerisch und dokumentarisch
 aufgearbeitet und erzählt darüber in einem Multimedia-Referat. Seien sie willkommen auf der Reise in
 das geheimnisvolle, gelobte Land und treten sie ein in einen Raum, der das Spiegelbild der eigenen Seele
@@ -130,8 +131,8 @@ ist."
   - image_path: /assets/referenten/lumira.jpg
     title: "Lumira Weidner"
     excerpt: "
-    Nur wenn du in deiner Kraft bist und lebst, kannst du dein Leben wahrhaftig leben und erschaffen. Die innere Kraft entsteht in dir, also durch Aufmerksamkeit nach Innen und nicht nach außen.<br>
-In unserer täglichen Routine denken wir wenig darüber nach, dass wir durch unsere Gegenwart unsere Zukunft erschaffen, und Zwar körperlich, geistig und seelisch. Dabei sind wir Menschen schöpferische Wesen, die täglich Szenarium unseres Lebens schreiben. Und wir selbst spielen die Hauptrolle in diesem Stück. Jeden Tag und jede Minute können wir uns immer anders aufs Neue entscheiden, etwas zu sein oder auch nicht, etwas mit zu spielen oder aus dem Spiel auszusteigen. Wir spielen und erschaffen unsere Welt oder die Welt und äußere Umstände spielen mit uns und formen uns! Das heißt einige spielen ihr Leben bewusst und die anderen lassen sich in Spiel von Anderen ziehen und leben nach den Spielregeln von anderen, leben dadurch nicht ihre eigene Bestimmung.<br>
+    Nur wenn du in deiner Kraft bist und lebst, kannst du dein Leben wahrhaftig leben und erschaffen. Die innere Kraft entsteht in dir, also durch Aufmerksamkeit nach Innen und nicht nach außen.<br><br>
+In unserer täglichen Routine denken wir wenig darüber nach, dass wir durch unsere Gegenwart unsere Zukunft erschaffen, und Zwar körperlich, geistig und seelisch. Dabei sind wir Menschen schöpferische Wesen, die täglich Szenarium unseres Lebens schreiben. Und wir selbst spielen die Hauptrolle in diesem Stück. Jeden Tag und jede Minute können wir uns immer anders aufs Neue entscheiden, etwas zu sein oder auch nicht, etwas mit zu spielen oder aus dem Spiel auszusteigen. Wir spielen und erschaffen unsere Welt oder die Welt und äußere Umstände spielen mit uns und formen uns! Das heißt einige spielen ihr Leben bewusst und die anderen lassen sich in Spiel von Anderen ziehen und leben nach den Spielregeln von anderen, leben dadurch nicht ihre eigene Bestimmung.<br><br>
 Wir als Schöpferwesen haben wahrhaftig schöpferische Instrumente, magische Utensilien, welche wir in uns tragen. Nun geht es darum, die Verantwortung für unser Leben zu übernehmen und uns selbst und die Welt, um uns damit zu heilen. Die Instrumente sind: Gedanken, Absicht, Wort, Gefühl, Tat.<br>
 Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten werden Taten. Oder – kontrolliere deine Gedanken, so kontrollierst du deine Realität! Am Anfang war das Wort."
     url: "http://lumira.de"
@@ -143,18 +144,18 @@ Das eine Instrument beeinflusst immer auch das andere. So heißt es: Aus Worten 
     excerpt: "
     Rap muss nicht hart und dunkel sein. Positive, bewusste Texte sind seit vielen Jahren auf dem
 Vormarsch – darunter die von SEOM. Modern und tiefgründing, fresh und energiegeladen
-gibt er Deutschrap eine neue Note.<br>
+gibt er Deutschrap eine neue Note.<br><br>
 Geprägt von einer sehr bewussten, freudvollen Lebensanschauung haben seine Texte die
 Leben vieler Menschen verändert. Aus allen Altersgruppen erhält SEOM oft das Feedback:
 'Eigentlich kann ich mit HipHop gar nichts anfangen, aber deine Songs berühren mich ganz
-tief.'<br>
+tief.'<br><br>
 *Ich habe nie nach unten geschaut
 und nicht auf Wunder gehofft –
 ich hab an Wunder geglaubt.
 (Spuren, 2017)*<br>
 *Find in dir selbst die Macht,
 es ist dein Geist, der deine Welt erschafft.
-(Spirit, 2014)*<br>
+(Spirit, 2014)*<br><br>
 Songs wie Spirit lenken den
 Blick auf unsere innere Kraft
 und die Möglichkeiten, das
@@ -170,7 +171,7 @@ Patrick Kammerer (36) ist als
 Songwriter, Rapper, Speaker
 und Autor unter dem Motto
 Im Zeichen des Guten
-unterwegs.<br>
+unterwegs.<br><br>
 Musik ist für ihn als Sprache des Herzens der beste Weg, um Menschen zu erreichen.
 Den Rückmeldungen zufolge gelingt ihm das ziemlich gut – er ist ein Lifecoach durch Musik.
 Seit 2018 veröffentlicht er über sein eigenes Label SEOM MUSIC. Voller Freiheit kann er
