@@ -33,12 +33,14 @@ Themen werden sein:
 - Wiederentdeckt – der Goldene, alles wieder vereinende Schlüssel für ein langes, gesundes Leben. „Sind wir nur Biochemie – oder ist da noch viel mehr“?
 - Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
   Spannungsfeld von Auf- und Abbauenden Kraftfelder
-- Heilwesen - Überwindung von Gräben auf dem Gebiet der Medizin,
-  zwischen Schulmedizin und Traditioneller Medizin.
+- Lifecoaching durch Musik - Finde in dir selbst die Macht - es ist dein Geist, der deine Welt erschafft
+- Persönlichkeitscoaching – Persönlichkeitsentwicklung für eine neue Welt
 - Die Kraft der Entfaltung der Neugeborenen, Globale Verantwortung in
   einer sich wandelnden Welt
-- Gelebte Familien Transformation, neue zukunftsorientiere Formen als Familie
+- Gelebte Familien Transformation, neue zukunftsorientierte Formen als Familie
   und Individuum
 - Kunst und Bildung, Ein Reiseführer ins verborgene Land Belowodje
 - Interdisziplinäre Zusammenarbeit, verschiedener Religionen; gelebtes Beispiel
 - Musik Klavierkonzert, "Musik für`s Herz von romantisch bis groovig"
+
+Mehr Details entnehmen Sie bitte dem [Program](/program).

@@ -20,12 +20,6 @@ feature_row:
     btn_label: "http://terrapro.eu"
     btn_class: "btn--primary"
 
-#  - image_path: /assets/referenten/bio-photo.jpg
-#    title: "Sascha Schär"
-#    excerpt: "n11 Achitekt REG A/SIA, Holz100 Bauphilosopie ohne Heizung, Verdichtetes Bauenim alpinen Raum - kein Wiederspruch, Zweisimmen CH"
-#  - image_path: /assets/referenten/bio-photo.jpg
-#    title: "Dr. med. Jürg Reinhard"
-#    excerpt: "Anthroposophischer Arzt, Physiker ETH, dipl. Bergführer, Buchautor, Thun CH"
   - image_path: /assets/referenten/findeisen.jpg
     title: "Wolfgang Findeisen"
     excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE
@@ -69,18 +63,11 @@ feature_row:
   - image_path: /assets/referenten/schmidberger.jpg
     title: "Miriam & Markus Schmidberger mit 4 Kindern"
     excerpt: "Miriam und Markus Schmidberger leben Familie als Kooperations-Gemeinschaft und reisen mit ihren Kindern zwischen Berlin und der Welt. Offen teilen Sie ihren Weg und ihre Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br><br>
-Ihr Ziel ist ein offener und authentischer Umgang untereinander als Paar wie auch mit ihren Kindern. *'Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen.'* Ein konstruktiver Umgang miteinander als Paar und mit ihren Kindern hilft ihnen dabei neue Wege zu gehen. <br><br>
+Ihr Ziel ist ein offener und authentischer Umgang untereinander als Paar wie auch mit ihren Kindern. *'Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen.'* Ein konstruktiver Umgang miteinander als Paar und mit ihren Kindern hilft ihnen dabei neue Wege zu gehen: Kooperationsgemeinschaft, Selbstbestimmtes Lernen, natürliche Geburt, Gefühle bewusst fühlen, Beziehung statt Erziehung, ...<br><br>
 Durch Coachings, Workshops und Seminare teilen Sie ihre Erfahrung mit Eltern, Familien und Firmen die wirkliche Familienfreundlichkeit anstreben."
     url: "https://familien-transformation.de"
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
-
-#  - image_path: /assets/referenten/gupta.jpg
-#    title: "Dr. med. Hedwig H. Gupta"
-#    excerpt: "Fachärztin für Orthopädie, Rheumatologie, Manuelle Medizin, Leiterin der vidya sagar Akademie für Ayurveda und Yogatherapie, Asperg DE"  
-#    url: "https://www.vidya-sagar.de"
-#    btn_label: "https://www.vidya-sagar.de"
-#    btn_class: "btn--primary"
 
   - image_path: /assets/referenten/hoffmann.jpg
     title: "Aki Hoffmann"
@@ -188,6 +175,15 @@ anderen vermitteln möchte."
     url: "http://shanti-yoga.ch"
     btn_label: "http://shanti-yoga.ch"
     btn_class: "btn--primary"
+
+  - image_path: /assets/referenten/bio-photo.jpg
+    title: "Sei selber dabei ..."
+    excerpt: "und gestalte die Zukunft mit deinen Ideen, Fragen und Beiträgen in den Diskussionsrunden."
+    url: "/anmeldung"
+    btn_label: "Anmeldung"
+    btn_class: "btn--primary"
+
+
 
 
 ---
