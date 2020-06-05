@@ -67,5 +67,5 @@ In	diesem	Sinne	grüße	ich	Sie/Dich	ganz	herzlich	im	Namen	des	Vorbereitungskre
 
 Shanti	Bosshart
 
-<img src="/assets/referenten/shanti.jpg" alt="Kitten"
+<img src="/assets/referenten/shanti2.jpg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
