@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/spring_640.jpg
   actions:
     - label: "Download Flyer"
-      url: "/assets/shanti_flyer_2020.pdf"
+      url: "/assets/shanti_flyer_2020_web.pdf"
     - label: "Anmeldung"
       url: "/anmeldung/"
 ---
@@ -44,3 +44,5 @@ Themen werden sein:
 - Musik Klavierkonzert, "Musik für`s Herz von romantisch bis groovig"
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).
+
+Download Flyer: [Druckversion](/assets/shanti_flyer_2020_druck.pdf), [Webversion](/assets/shanti_flyer_2020_web.pdf)
