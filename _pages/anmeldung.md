@@ -16,16 +16,23 @@ Kunstschaffende, Eltern, Erzieher, …
 <p><select name="preis" size="1">
 <option>Frühbucherpreis bis 15.07.2020 - 315€</option>
 <option>Normalpreis bis 15.09.2020 - 345€</option>
-</select></p>
-  Vorname / Name: <input type="text" name="name" value="Max Mustermann">
-  Strasse: <input type="text" name="strasse">
-  PLZ, Ort: <input type="text" name="ort">
-  Land: <input type="text" name="land">
-  Telefonnummer: <input type="number" name="telefon">
-  Email: <input type="email" name="_replyto">
-  Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
-  <input type="submit" value="Send" class="btn btn--primary">
+</select></p><p>
+Rabattcode:<input type="text" name="rabatt">
+</p>
+<p>
+<b>Vorname / Name:*</b> <input type="text" name="name" value="Max Mustermann">
+Strasse: <input type="text" name="strasse">
+PLZ, Ort: <input type="text" name="ort">
+Land: <input type="text" name="land">
+Telefonnummer: <input type="number" name="telefon">
+<b>Email:*</b><input type="email" name="_replyto">
+</p>
+<p>
+Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
+</p>
+<input type="submit" value="Anmelden" class="btn btn--primary">
 </form>
+<br><br>
 
 # Anmeldeschluss 15.09.2020
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
