@@ -110,7 +110,28 @@ ist."
 
   - image_path: /assets/referenten/sasi.jpg
     title: "Sasikumar Tharmalingam"
-    excerpt: "Hindupriester, Seelsorger, interreligiöser & interkultureller Mentor (BE/FAH),Leiter Ayurvedische Küche, Haus der Religionen, Bern CH"
+    excerpt: "
+    Sasikumar Tharmalingam ist Priester, Gastwirt und Kulturvermittler im Haus der Religionen in
+Bern. <br><br>
+Als Jugendlicher flüchtete er 1988 aus Jaffna, Sri Lanka in die Schweiz. Seit über 20 Jahren
+beschäftigt er sich intensiv mit seiner Religion, dem ‚Hinduismus‘. Auf Reisen nach Indien und
+Sri Lanka und im ständigen Kontakt mit Hindugelehrten in diesen Ländern vertieft er seine
+Kenntnisse stetig. 1996 gründete er mit Kollegen den Verein Saivanerikoodam. In einer kleinen
+Wohnung in Bern, Schweiz entstand das erste Vereinslokal. 2002 war der Verein
+Gründungsmitglied vom Berner Haus der Religionen – Dialog der Kulturen. Nach diversen
+Provisorien wurde 2015 der offizielle Hindutempel der Tempelgemeinschaft des Vereins
+Saivanerikoodams im Haus der Religionen eröffnet, wo Sasikumar Tharmalingam als
+Hauptpriester tätig ist. Die Grundanliegen der Tempelgemeinschaft des Vereins
+Saivanerikoodams sind die Beschäftigung mit den Ursachen des Kastensystems, welche sie zu
+überwinden trachten, Genderfragen und einem ‚Reform-Hinduismus‘, der die Führung von
+Ritualen in der Muttersprache erlaubt. <br><br>
+
+Heute wird Sasikumar Tharmalingam von vielen
+Menschen und Institutionen als Fachperson für die tamilische Kultur angefragt und begleite
+Menschen aus allen Nationen in vielen, auch schwierigen Lebenssituationen und spirituellen
+Fragen. Er ist als Kulturvermittler und als Gastwirt im Berner Haus der Religionen tätig und baut
+spirituelle und kulinarische Brücken zwischen Kulturen und Welten.
+"
     url: "https://www.haus-der-religionen.ch"
     btn_label: "https://www.haus-der-religionen.ch"
     btn_class: "btn--primary"
@@ -164,14 +185,54 @@ Den Rückmeldungen zufolge gelingt ihm das ziemlich gut – er ist ein Lifecoach
 Seit 2018 veröffentlicht er über sein eigenes Label SEOM MUSIC. Voller Freiheit kann er
 seine künstlerische Vision entfalten und seine Träume leben. Er macht täglich vor, was er
 anderen vermitteln möchte."
-    url: "https://seommusic.de/"
-    btn_label: "https://seommusic.de/"
+    url: "https://seommusic.de"
+    btn_label: "https://seommusic.de"
     btn_class: "btn--primary"
 
 
   - image_path: /assets/referenten/shanti.jpg
     title: "Shanti Bosshart"
-    excerpt: "Initiatorin des Ersten Internationalen Shanti Forum 2020, Organisation & Mentorin"
+    excerpt: "
+    Durch einen inneren Impuls und eine tiefe persönliche Erfahrung im vergangenen Jahr 2019 entstand
+für Alle, die einen neuen Weg gehen möchten, das „Erste Internationale Shanti-Forum 2020, Gelebte
+Zukunft“.<br><br>
+
+Zunehmend wird das Leben auf dem Planeten Erde gefährdet, durch verschiedene Eingriffe des
+Menschen in die Resourcen und das elektromagnetische Feld aller Lebewesen. Dazu befinden wir uns
+in einem sogenannten „Aufstiegsprozess“, welcher auch rein physikalisch messbar ist, z.B. durch die
+Schumann Frequenzen - Wellen bestimmter Frequenzen, die stehende Wellen um die Erde herum
+bilden und Einfluss nehmen auf das Energiefeld des Menschen, ja aller Lebewesen.<br><br>
+
+Wir befinden uns in einer nicht übersehbaren globalen Veränderung, das Erdmagnetfeld schwächt
+sich ab, die globalen elektromagnetischen Resonanzen verändern sich.
+Wie wirken sich die Schumann-Resonanzen und die Veränderung durch gepulste Energien wie 5G auf
+den Menschen aus? Mehr dazu erfahren sie am Shanti-Forum 2020.<br><br>
+
+**Freudvollen Mut in Leichtigkeit zu neuen Lebensformen!**
+Viele Menschen wagen es nicht zu zeigen wer sie wirklich sind aus Angst davor, von den Anderen
+abgelehnt zu werden. Es braucht sehr viel Mut um sich der Herzliebe zu öffnen und seine verletzliche
+Seiten zu offenbaren dennoch, ist es das einzig wahre und wichtige JETZT seine eigenen Visionen
+wahrzunehmen und zu verwirklichen. Zusammen mit gleichgesinnten offenherzigen Menschen zu
+teilen zum höchsten Wohle aller, Mensch, Tier und Natur/Erde. Wir leben in einer für uns absolut
+entscheidenden Zeit für das JETZT und die ZUKUNFT für uns - und Alle die nach uns kommen.<br><br>
+
+Als Hochsensible mit erweiterter Wahrnehmung der Dinge, die um mich herum abliefen, inkarnierte
+ich mich 1950 in der Schweiz. Das was mich, seit ich bewusst Wahrnehmen konnte verwirrte, war
+dass das was ich in meinem inneren fühlte, meine innere Wahrheit, oft bis zu 100% nicht mit der
+äusseren Realität übereinstimmten.
+Das entsprach so oft gar nicht meiner inneren Weisheit, die mir sagte; „hilf jedem anderen
+Menschen, jedem Wesen so gut du kannst bei seiner Entwicklung und Bemühungen zum
+Weiterkommen in seine eigene Kraft zu kommen und das eigene Potential zu entfalten.<br><br>
+
+Mein Weg führte mich durch die Höhen und Tiefen des Lebens, ich begegnete vielen Menschen,
+Gelehrten, Weisen, Yogis, in verschiedenen Kulturen – doch das Wichtigste lernte ich von den kleinen
+Kindern die noch ihr wahres Wesen offenbaren und ganz ehrlich mitteilen und ihre Gefühle imstande
+sind auszudrücken – wenn sie nicht schon vom Mutterleib an verändert werden!
+(Mehr über meinen beruflichen Bildungsweg gibt es unter www.shanti-yoga.ch)<br><br>
+
+Freue DICH auf spannende 3 Tage im SHANTI-FORUM 2020, GELEBTE ZUKUNFT, voller wunderbaren
+Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR SELBST!!
+"
     url: "http://shanti-yoga.ch"
     btn_label: "http://shanti-yoga.ch"
     btn_class: "btn--primary"
