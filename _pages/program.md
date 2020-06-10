@@ -12,7 +12,7 @@ zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
 
 # Freitag, 16. Oktober 2020
-* 18.30 ABENDESSEN
+* 18.30-19.30 ABENDESSEN (DINNER BUFFET)
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
 * 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
 FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
@@ -47,7 +47,7 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 16.00-16.30 AUSSPRACHE
 * 16.30-16.45 PAUSE
 * 17.00-18.00 **VIER ARBEITSGRUPPEN**
-  * GRUPPE A *Schöpfungs-Physik und Heilmethoden*, Bernd Fuch
+  * GRUPPE A *Schöpfungs-Physik und Heilmethoden*, Bernd Fuchs
   * GRUPPE B *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
   * GRUPPE C *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE D *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
