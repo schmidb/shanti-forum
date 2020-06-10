@@ -14,7 +14,7 @@ Kunstschaffende, Eltern, Erzieher, …
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
 <p><select name="preis" size="1">
-<option>Frühbucherpreis bis 15.07.2020 - 315€</option>
+<option>Frühbucherpreis bis 15.07.2020 - 325€</option>
 <option>Normalpreis bis 15.09.2020 - 345€</option>
 </select></p><p>
 Rabattcode:<input type="text" name="rabatt">
