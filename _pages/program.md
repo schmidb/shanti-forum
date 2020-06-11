@@ -1,6 +1,6 @@
 ---
 permalink: /program/
-title: "Vorläufiges Program"
+title: "Program"
 layout: splash
 header:
   overlay_color: "#00f"
