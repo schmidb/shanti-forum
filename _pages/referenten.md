@@ -7,6 +7,53 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/dandelion_640.jpg
 feature_row:
+  - image_path: /assets/referenten/shanti.jpg
+    title: "Shanti Bosshart"
+    excerpt: "
+  Durch einen inneren Impuls und eine tiefe persönliche Erfahrung im vergangenen Jahr 2019 entstand
+für Alle, die einen neuen Weg gehen möchten, das „Erste Internationale Shanti-Forum 2020, Gelebte
+Zukunft“.<br><br>
+
+Zunehmend wird das Leben auf dem Planeten Erde gefährdet, durch verschiedene Eingriffe des
+Menschen in die Resourcen und das elektromagnetische Feld aller Lebewesen. Dazu befinden wir uns
+in einem sogenannten „Aufstiegsprozess“, welcher auch rein physikalisch messbar ist, z.B. durch die
+Schumann Frequenzen - Wellen bestimmter Frequenzen, die stehende Wellen um die Erde herum
+bilden und Einfluss nehmen auf das Energiefeld des Menschen, ja aller Lebewesen.<br><br>
+
+Wir befinden uns in einer nicht übersehbaren globalen Veränderung, das Erdmagnetfeld schwächt
+sich ab, die globalen elektromagnetischen Resonanzen verändern sich.
+Wie wirken sich die Schumann-Resonanzen und die Veränderung durch gepulste Energien wie 5G auf
+den Menschen aus? Mehr dazu erfahren sie am Shanti-Forum 2020.<br><br>
+
+**Freudvollen Mut in Leichtigkeit zu neuen Lebensformen!**
+Viele Menschen wagen es nicht zu zeigen wer sie wirklich sind aus Angst davor, von den Anderen
+abgelehnt zu werden. Es braucht sehr viel Mut um sich der Herzliebe zu öffnen und seine verletzliche
+Seiten zu offenbaren dennoch, ist es das einzig wahre und wichtige JETZT seine eigenen Visionen
+wahrzunehmen und zu verwirklichen. Zusammen mit gleichgesinnten offenherzigen Menschen zu
+teilen zum höchsten Wohle aller, Mensch, Tier und Natur/Erde. Wir leben in einer für uns absolut
+entscheidenden Zeit für das JETZT und die ZUKUNFT für uns - und Alle die nach uns kommen.<br><br>
+
+Als Hochsensible mit erweiterter Wahrnehmung der Dinge, die um mich herum abliefen, inkarnierte
+ich mich 1950 in der Schweiz. Das was mich, seit ich bewusst Wahrnehmen konnte verwirrte, war
+dass das was ich in meinem inneren fühlte, meine innere Wahrheit, oft bis zu 100% nicht mit der
+äusseren Realität übereinstimmten.
+Das entsprach so oft gar nicht meiner inneren Weisheit, die mir sagte; „hilf jedem anderen
+Menschen, jedem Wesen so gut du kannst bei seiner Entwicklung und Bemühungen zum
+Weiterkommen in seine eigene Kraft zu kommen und das eigene Potential zu entfalten.<br><br>
+
+Mein Weg führte mich durch die Höhen und Tiefen des Lebens, ich begegnete vielen Menschen,
+Gelehrten, Weisen, Yogis, in verschiedenen Kulturen – doch das Wichtigste lernte ich von den kleinen
+Kindern die noch ihr wahres Wesen offenbaren und ganz ehrlich mitteilen und ihre Gefühle imstande
+sind auszudrücken – wenn sie nicht schon vom Mutterleib an verändert werden!
+(Mehr über meinen beruflichen Bildungsweg gibt es unter www.shanti-yoga.ch)<br><br>
+
+Freue DICH auf spannende 3 Tage im SHANTI-FORUM 2020, GELEBTE ZUKUNFT, voller wunderbaren
+Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR SELBST!!
+"
+    url: "http://shanti-yoga.ch"
+    btn_label: "http://shanti-yoga.ch"
+    btn_class: "btn--primary"
+
   - image_path: /assets/referenten/fuchs.jpg
     title: "Bernd Fuchs"
     excerpt: "Bernd Fuchs, Elektroingenieur, geboren und aufgewachsen in der Nähe von Stuttgart, lebt seit 25 Jahren in Österreich, ist Vater von zwei Kindern und hat in Tirol seine Herzensheimat gefunden.
@@ -69,14 +116,6 @@ Durch Coachings, Workshops und Seminare teilen Sie ihre Erfahrung mit Eltern, Fa
     btn_label: "https://familien-transformation.de"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/hoffmann.jpg
-    title: "Aki Hoffmann"
-    excerpt: "
-    Aki Hoffmann bewegt in der Welt der Künste viel. Seine grenzenlosen Improvisationen auf dem Flügel, Musik die inspiriert ist von Themen aus den Bereichen Tanz, Film und Gestaltung, öffnen dem Zuhörer einen wunderbar weiten Raum, eine Klangreise ins Unbekannte. Aki Hoffmann spielt Konzerte in Klassik und Jazz/Pop und in Crossoverprojekten.<br><br>
-An der Hochschule der Künste Bern ist er Dozent für Klavier und Klavierimprovisationen. "
-    url: "https://www.aki-hoffmann.com"
-    btn_label: "https://www.aki-hoffmann.com"
-    btn_class: "btn--primary"
 
   - image_path: /assets/referenten/maurer.jpg
     title: "Stefan Maurer"
@@ -190,52 +229,16 @@ anderen vermitteln möchte."
     btn_class: "btn--primary"
 
 
-  - image_path: /assets/referenten/shanti.jpg
-    title: "Shanti Bosshart"
+  - image_path: /assets/referenten/hoffmann.jpg
+    title: "Aki Hoffmann"
     excerpt: "
-    Durch einen inneren Impuls und eine tiefe persönliche Erfahrung im vergangenen Jahr 2019 entstand
-für Alle, die einen neuen Weg gehen möchten, das „Erste Internationale Shanti-Forum 2020, Gelebte
-Zukunft“.<br><br>
-
-Zunehmend wird das Leben auf dem Planeten Erde gefährdet, durch verschiedene Eingriffe des
-Menschen in die Resourcen und das elektromagnetische Feld aller Lebewesen. Dazu befinden wir uns
-in einem sogenannten „Aufstiegsprozess“, welcher auch rein physikalisch messbar ist, z.B. durch die
-Schumann Frequenzen - Wellen bestimmter Frequenzen, die stehende Wellen um die Erde herum
-bilden und Einfluss nehmen auf das Energiefeld des Menschen, ja aller Lebewesen.<br><br>
-
-Wir befinden uns in einer nicht übersehbaren globalen Veränderung, das Erdmagnetfeld schwächt
-sich ab, die globalen elektromagnetischen Resonanzen verändern sich.
-Wie wirken sich die Schumann-Resonanzen und die Veränderung durch gepulste Energien wie 5G auf
-den Menschen aus? Mehr dazu erfahren sie am Shanti-Forum 2020.<br><br>
-
-**Freudvollen Mut in Leichtigkeit zu neuen Lebensformen!**
-Viele Menschen wagen es nicht zu zeigen wer sie wirklich sind aus Angst davor, von den Anderen
-abgelehnt zu werden. Es braucht sehr viel Mut um sich der Herzliebe zu öffnen und seine verletzliche
-Seiten zu offenbaren dennoch, ist es das einzig wahre und wichtige JETZT seine eigenen Visionen
-wahrzunehmen und zu verwirklichen. Zusammen mit gleichgesinnten offenherzigen Menschen zu
-teilen zum höchsten Wohle aller, Mensch, Tier und Natur/Erde. Wir leben in einer für uns absolut
-entscheidenden Zeit für das JETZT und die ZUKUNFT für uns - und Alle die nach uns kommen.<br><br>
-
-Als Hochsensible mit erweiterter Wahrnehmung der Dinge, die um mich herum abliefen, inkarnierte
-ich mich 1950 in der Schweiz. Das was mich, seit ich bewusst Wahrnehmen konnte verwirrte, war
-dass das was ich in meinem inneren fühlte, meine innere Wahrheit, oft bis zu 100% nicht mit der
-äusseren Realität übereinstimmten.
-Das entsprach so oft gar nicht meiner inneren Weisheit, die mir sagte; „hilf jedem anderen
-Menschen, jedem Wesen so gut du kannst bei seiner Entwicklung und Bemühungen zum
-Weiterkommen in seine eigene Kraft zu kommen und das eigene Potential zu entfalten.<br><br>
-
-Mein Weg führte mich durch die Höhen und Tiefen des Lebens, ich begegnete vielen Menschen,
-Gelehrten, Weisen, Yogis, in verschiedenen Kulturen – doch das Wichtigste lernte ich von den kleinen
-Kindern die noch ihr wahres Wesen offenbaren und ganz ehrlich mitteilen und ihre Gefühle imstande
-sind auszudrücken – wenn sie nicht schon vom Mutterleib an verändert werden!
-(Mehr über meinen beruflichen Bildungsweg gibt es unter www.shanti-yoga.ch)<br><br>
-
-Freue DICH auf spannende 3 Tage im SHANTI-FORUM 2020, GELEBTE ZUKUNFT, voller wunderbaren
-Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR SELBST!!
-"
-    url: "http://shanti-yoga.ch"
-    btn_label: "http://shanti-yoga.ch"
+      Aki Hoffmann bewegt in der Welt der Künste viel. Seine grenzenlosen Improvisationen auf dem Flügel, Musik die inspiriert ist von Themen aus den Bereichen Tanz, Film und Gestaltung, öffnen dem Zuhörer einen wunderbar weiten Raum, eine Klangreise ins Unbekannte. Aki Hoffmann spielt Konzerte in Klassik und Jazz/Pop und in Crossoverprojekten.<br><br>
+  An der Hochschule der Künste Bern ist er Dozent für Klavier und Klavierimprovisationen. "
+    url: "https://www.aki-hoffmann.com"
+    btn_label: "https://www.aki-hoffmann.com"
     btn_class: "btn--primary"
+
+
 
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Sei selber dabei ..."
@@ -243,7 +246,6 @@ Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR 
     url: "/anmeldung"
     btn_label: "Anmeldung"
     btn_class: "btn--primary"
-
 
 
 
