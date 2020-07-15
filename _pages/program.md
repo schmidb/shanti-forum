@@ -11,7 +11,7 @@ header:
 zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
 
-# Freitag, 16. Oktober 2020
+# Freitag, 4. Dezember 2020
 * 18.30-19.30 ABENDESSEN (DINNER BUFFET)
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
 * 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
@@ -30,7 +30,7 @@ Hopfgarten A
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-# Samstag, 17. Oktober 2020
+# Samstag, 5. Dezember 2020
 * 9.00-10.00 **DAS WIRKEN DES ÄTHERISCHEN IM ÜBER-
 UND UNTERSINNLICHEN. DER MENSCH IM SPANNUNGSFELD VON
 AUF- UND ABBAUENDEN KRAFTFELDERN**, Wolfgang Findeisen, ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive
@@ -58,7 +58,7 @@ Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-# Sonntag, 18. Oktober 2020
+# Sonntag, 6. Dezember 2020
 * 9.00-10.00 **KUNST UND BILDUNG, EIN REISEFÜHRER
 INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künstlerkollektivs MaMi,
 Projekte im Bereich Kunst, Bildung und

@@ -14,8 +14,8 @@ Kunstschaffende, Eltern, Erzieher, …
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
 <p><select name="preis" size="1">
-<option>Frühbucherpreis bis 15.07.2020 - 325€</option>
-<option>Normalpreis bis 15.09.2020 - 345€</option>
+<option>Frühbucherpreis bis XX.XX.2020 - XXX</option>
+<option>Normalpreis bis XX.XX.2020 - XXX</option>
 </select></p><p>
 Rabattcode:<input type="text" name="rabatt">
 </p>
@@ -34,7 +34,7 @@ Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
 </form>
 <br><br>
 
-# Anmeldeschluss 15.09.2020
+# Anmeldeschluss XX.XX.2020
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
 
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
@@ -42,16 +42,15 @@ Mother of live Shanti Yoga<br>
 Stichwort Shanti Forum 2020 + Name des Teilnehmers<br>
 IBAN CH57 0870 4049 7234 5910 9 / BIC AEKTCH22XXX
 
-Die Teilnahmegebühr versteht sich exklusive Hotel- und Verpflegungskosten. Im Zusammenhang mit dem SHANTI-FORUM werden im [SEINZ Widsom
-Resort Hotel](https://www.seinz.de/) Tagespauschalen, beinhaltend ­Übernachtung im Doppel-
+Die Teilnahmegebühr versteht sich exklusive Hotel- und Verpflegungskosten. Im Zusammenhang mit dem SHANTI-FORUM werden im [Schloss Wartegg](https://wartegg.ch) Tagespauschalen, beinhaltend ­Übernachtung im Doppel-
 bzw. Einzelzimmer sowie Vollpension mit hochwertiger, biologisch frisch
 zubereiteter veganPlus Buffet-Küche angeboten:
-* EUR 109 pro Person und Nacht im Doppelzimmer Classic bei ­Doppelbelegung
-* EUR 129 pro Person und Nacht im Einzelzimmer Classic bei Einzelbelegung
+* XXX pro Person und Nacht im Doppelzimmer Classic bei ­Doppelbelegung
+* XXX pro Person und Nacht im Einzelzimmer Classic bei Einzelbelegung
 
-Anmeldung und Bezahlung direkt an SEINZ Wisdom Resort<br>
-Telefon: +498845970<br>
-E-Mail: hallo@seinz.de
+Anmeldung und Bezahlung direkt an Schloss Wartegg<br>
+Telefon: +41 71 858 62 62<br>
+E-Mail: schloss@wartegg.ch
 
 Die personenbezogenen Daten Ihrer Anmeldung, werden nur zur
 Korrespondenz mit Ihnen und nur für den Zweck verarbeitet, zu dem Sie uns die Daten zur Verfügung gestellt habe. Wir geben die Daten nur an Dritte weiter, soweit es zur Erfüllung und administrativer Abwicklung nötig ist. Wenn Sie keine Informationen mehr erhalten möchten, so informieren Sie uns bitte unter oben stehenden Kontaktadresse oder per Mail info@shanti-yoga.ch
