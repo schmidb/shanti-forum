@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-title: "1. Internationales Shanti-Forum am 16.-18. Oktober 2020 zum Thema 'Gelebte Zukunft'"
+title: "1. Internationales Shanti-Forum am 4. - 6. Dezember 2020 zum Thema 'Gelebte Zukunft'"
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
