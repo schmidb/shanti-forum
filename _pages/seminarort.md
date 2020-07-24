@@ -13,7 +13,7 @@ Im Schlosshotel Wartegg erwartet Sie eine inspirierende Seminar-Atmosphäre. Hel
 Zudem bietet sich der Schlosspark für Gespräche und erholsame Pausen an. Selbstverständlich haben wir für Ihre Wünsche stets ein offenes Ohr und stehen Ihnen und Ihren Seminarteilnehmern in bewährt liebenswürdiger Weise und mit unaufdringlich charmantem Service zur Verfügung.
 
 # Kontakt
-Schloss Wartegg<br>
+Schlosshotel Wartegg<br>
 
 Von Blarer Weg<br>
 9404 Rorschacherberg<br>
@@ -23,19 +23,21 @@ E-Mail: schloss@wartegg.ch
 
 [https://wartegg.ch](https://wartegg.ch){:target="_blank"}
 
-# Hotelkosten und Vollpension (Tagespauschale)
-Die Kosten für das Forum verstehen sich exklusive Hotelkosten und
-exklusive Vollpension.
-
-Im Zusammenhang mit dem SHANTI-FORUM werden im Schloss Wartegg Tagespauschalen, beinhaltend ­Übernachtung im Doppel-
-bzw. Einzelzimmer sowie Vollpension mit hochwertiger, biologisch frisch
-zubereiteter veganPlus Buffet-Küche angeboten:
-* XXX pro Person und Nacht im Doppelzimmer Classic bei ­Doppelbelegung
-* XXX pro Person und Nacht im Einzelzimmer Classic bei Einzelbelegung
+# Hotelkosten und Tagespauschale
+Die Kosten für das Forum verstehen sich exklusive Hotelkosten und Tagespauschale
 
 Anmeldung und Bezahlung direkt an Schloss Wartegg<br>
 Telefon: +41 71 858 62 62<br>
 E-Mail: schloss@wartegg.ch
+
+### Obligatorische Hotel-Kosten (zusätzlich zu den Forum-Kosten)
+Minimale Tagespauschale von CHF 88.– pro Person und Tag inkl. Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen
+
+### Fakultative Hotel-Kosten (zusätzlich zu den Forum-Kosten)
+* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-GangA bendessen für CHF 134.– pro Person und Tag
+*  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
+2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– pro Tag und
+Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im E
 
 # Anreise
 Wir empfehlen die Anreiseempfehlungen auf der Webseite des Schloss Wartegg: [https://wartegg.ch/arrival/](https://wartegg.ch/arrival/){:target="_blank"}
