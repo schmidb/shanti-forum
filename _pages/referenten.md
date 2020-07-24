@@ -241,8 +241,19 @@ anderen vermitteln möchte."
 
   - image_path: /assets/referenten/ruppert.jpg
     title: "Prof. Dr. Franz Ruppert"
-    excerpt: "Was will ich – leben oder überleben. Das wahre Glück, mir selbst zu begegnen.
-<br><br> Psychotraumata machen Trauma-Überlebensstrategien notwendig. Daher kann es sein, dass Menschen von Beginn ihres Lebens an in vielen Bereichen im Trauma-Überlebensmodus funktionieren. In diesem wird die Realität nicht erkannt, wie sie ist, sie wird verzerrt wahrgenommen, gefühlt und gedacht. Dadurch wird das Leben und Zusammenleben stressvoll und unbefriedigend. Wie also können wir ein gutes Leben führen und aus unserer Traumabiografie aussteigen? In diesem Vortrag fasse ich meine Erkenntnisse über den Unterschied zwischen gesunder Identität und einem Leben im Modus der Identifikation zusammen."
+    excerpt: "
+    Prof. Dr. Franz Ruppert, geb. 1957 in Deutschland, 1982 Diplom in Psychologie, 1984 Dr. phil. in Psychologie, seit 1992 Professor für Psychologie an der Katholischen Stiftungshochschule in München. Approbierter psychologischer Psychotherapeut mit eigener Praxis in München.
+<br><br>
+    Seit 1994 Beginn der Arbeit mit der Aufstellungstechnik und der daraus entwickelten Anliegenmethode. Er bietet dazu nationale und internationale Weiterbildung in der Identitätsorientierten Psychotraumatheorie und –therapie (IoPT) an.
+<br><br>
+    Regelmäßiges Angebot von Workshops in verschiedenen Städten Deutschlands (Hamburg, Berlin, Frankfurt, Hannover, Köln, Stuttgart, München) und zahlreichen Ländern weltweit (u.a. Brasilien, Österreich, England, Irland, Spanien, Polen, Portugal, Niederlande, Italien, Russland, Tschechien, Türkei, Mexiko, China, Schweiz, Singapur).
+<br><br>
+    Die Bücher sind ins Englische, Russische, Spanische, Italienische, Portugiesische, Norwegische, Polnische, Niederländische, Tschechische und Türkische übersetzt.
+<br><br>
+    Der derzeitige Forschungsschwerpunkt ist die Entwicklung der Identität eines Menschen und die Folgen von Traumatisierungen auf die gesamte psychische Entwicklung.
+<br><br>
+    Daraus erfolgt die Erkenntnis, dass nur solche Menschen, die in Kontakt mit sich und ihrem eigenen Ich sind, in der Lages sind, konstruktive Beziehungen mit anderen Menschen zu führen. Wer als Kind nicht gewollt, nicht geliebt und nicht geschützt wurde, kann weder mit sich selbst noch mit seinen Mitmenschen in Frieden leben.  
+    "
     url: "https://franz-ruppert.de"
     btn_label: "https://franz-ruppert.de"
     btn_class: "btn--primary"
