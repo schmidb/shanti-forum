@@ -12,7 +12,8 @@ zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
 
 # Freitag, 4. Dezember 2020
-* 18.30-19.30 ABENDESSEN (DINNER BUFFET)
+* 16.30-17.30 Registration
+* 18.30-19.30 ABENDESSEN
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
 * 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
 FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
@@ -41,7 +42,7 @@ Zusammenarbeit mit Ärzten. Erforschung Zusammenhänge Medizin und Pädagogik, H
 NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Familienbetreuung, *Ecole Equestre Esprit de la Légèreté*, Courtion CH
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
-* 12.30-13.30  MITTAGESSEN (LUNCH BUFFET)
+* 12.30-13.30  MITTAGESSEN
 * 14.30-15.00 **SEOM MUSIC *FIND IN DIR SELBST DIE MACHT – ES IST DEIN GEIST, DER DEINE WELT ERSCHAFFT* (SPIRIT, 2014)**, SEOM (Patrick Kammerer) ist Sänger, Autor, Songwriter, Lifecoach durch Musik, Special-Videoaufnahme zum Shanti-Forum 2020
 * 15.00-16.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
 * 16.00-16.30 AUSSPRACHE
@@ -51,7 +52,7 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
   * GRUPPE B *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
   * GRUPPE C *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE D *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
-* 18.30-19.30 ABENDESSEN (DINNER BUFFET)
+* 18.30-19.30 ABENDESSEN
 * 20.00-21.30 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
 Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
 * 21.30 AUSKLANG DES TAGES
@@ -70,8 +71,10 @@ Seelsorger, interreligiöser & interkulturel-
 ler Mentor (BE. FAH) Leiter Ayurvedische
 Küche, Haus der Religionen, Bern CH
 * 11.30-12.00 AUSSPRACHE
-* 12.00-12.15 **SCHLUSSWORT**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
-* 12.30  MITTAGESSEN (LUNCH BUFFET)
+* 12.30-13.30 MITTAGESSEN
+* 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE
+* 15.00-15.30 AUSSPRACHE
+* 15.30-15.45 **ABSCHLUSSWORTE**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
