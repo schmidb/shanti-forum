@@ -239,6 +239,14 @@ anderen vermitteln möchte."
     btn_class: "btn--primary"
 
 
+  - image_path: /assets/referenten/ruppert.jpg
+    title: "Prof. Dr. Franz Ruppert"
+    excerpt: "Was will ich – leben oder überleben. Das wahre Glück, mir selbst zu begegnen.
+<br><br> Psychotraumata machen Trauma-Überlebensstrategien notwendig. Daher kann es sein, dass Menschen von Beginn ihres Lebens an in vielen Bereichen im Trauma-Überlebensmodus funktionieren. In diesem wird die Realität nicht erkannt, wie sie ist, sie wird verzerrt wahrgenommen, gefühlt und gedacht. Dadurch wird das Leben und Zusammenleben stressvoll und unbefriedigend. Wie also können wir ein gutes Leben führen und aus unserer Traumabiografie aussteigen? In diesem Vortrag fasse ich meine Erkenntnisse über den Unterschied zwischen gesunder Identität und einem Leben im Modus der Identifikation zusammen."
+    url: "https://franz-ruppert.de"
+    btn_label: "https://franz-ruppert.de"
+    btn_class: "btn--primary"
+
 
   - image_path: /assets/referenten/bio-photo.jpg
     title: "Sei selber dabei ..."
@@ -246,7 +254,6 @@ anderen vermitteln möchte."
     url: "/anmeldung"
     btn_label: "Anmeldung"
     btn_class: "btn--primary"
-
 
 
 ---
