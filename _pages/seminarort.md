@@ -15,7 +15,7 @@ Zudem bietet sich der Schlosspark für Gespräche und erholsame Pausen an. Selbs
 # Kontakt
 Schlosshotel Wartegg<br>
 
-Von Blarer Weg<br>
+Von Blarer Weg 1<br>
 9404 Rorschacherberg<br>
 Telefon: +41 71 858 62 62<br>
 Fax: +41 71 858 62 60<br>
@@ -37,7 +37,7 @@ Minimale Tagespauschale von CHF 88.– pro Person und Tag inkl. Seminarraum, Kaf
 * Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-GangA bendessen für CHF 134.– pro Person und Tag
 *  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
 2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– pro Tag und
-Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im E
+Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im EZ
 
 # Anreise
 Wir empfehlen die Anreiseempfehlungen auf der Webseite des Schloss Wartegg: [https://wartegg.ch/arrival/](https://wartegg.ch/arrival/){:target="_blank"}

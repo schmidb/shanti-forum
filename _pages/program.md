@@ -65,14 +65,14 @@ INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermit
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMEN-ARBEIT VERSCHIEDENER RELIGIONEN**
+* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMEN - ARBEIT VERSCHIEDENER RELIGIONEN**
 Sasikumar Tharmalingam, Hindupriester,
 Seelsorger, interreligiöser & interkulturel-
 ler Mentor (BE. FAH) Leiter Ayurvedische
 Küche, Haus der Religionen, Bern CH
 * 11.30-12.00 AUSSPRACHE
 * 12.30-13.30 MITTAGESSEN
-* 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE
+* 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN, Das wahre Glück, mir selbst zu begegnen**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE
 * 15.00-15.30 AUSSPRACHE
 * 15.30-15.45 **ABSCHLUSSWORTE**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
 

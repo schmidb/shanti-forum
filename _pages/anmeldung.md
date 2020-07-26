@@ -56,7 +56,7 @@ Minimale Tagespauschale von CHF 88.– pro Person und Tag inkl. Seminarraum, Kaf
 * Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-GangA bendessen für CHF 134.– pro Person und Tag
 *  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
 2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– pro Tag und
-Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im E
+Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im EZ
 
 
 <i>Die personenbezogenen Daten Ihrer Anmeldung, werden nur zur
