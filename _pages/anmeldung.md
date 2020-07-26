@@ -38,25 +38,24 @@ Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
 
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
-Mother of live Shanti Yoga<br>
+Mother of life Shanti Yoga<br>
 Stichwort Shanti Forum 2020 + Name des Teilnehmers<br>
 IBAN CH57 0870 4049 7234 5910 9 / BIC AEKTCH22XXX
 
-Die Teilnahmegebühr versteht sich exklusive Hotelkosten und exklusive Tagespauschale.
-
-Anmeldung und Bezahlung der Hotelkosten und Tagespauschale direkt an Schlosshotel Wartegg<br>
+Die Teilnahmegebühr versteht sich <b>exklusive</b> Hotelkosten und <b>exklusive</b> Tagespauschale. Anmeldung für Übernachtung und Bezahlung von Hotelkosten und Tagespauschale direkt an Schlosshotel Wartegg:<br>
 Telefon: +41 71 858 62 62<br>
-E-Mail: schloss@wartegg.ch
+E-Mail: schloss@wartegg.ch<br>
+[https://wartegg.ch](https://wartegg.ch){:target="_blank"}
 
 
 ### Obligatorische Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-Minimale Tagespauschale von CHF 88.– pro Person und Tag inkl. Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen
+Minimale Tagespauschale von CHF 88.– pro Person <b>und Tag</b> inklusive Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen.
 
 ### Fakultative Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-GangA bendessen für CHF 134.– pro Person und Tag
+* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-Gang Abendessen für CHF 134.– pro Person <b>und Tag</b>.
 *  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
-2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– pro Tag und
-Person im DZ bei Doppelbelegung; CHF 268.– pro Tag und Person im EZ
+2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– <b>pro Tag</b> und
+Person im DZ bei Doppelbelegung; CHF 268.– <b>pro Tag</b> und Person im EZ.
 
 
 <i>Die personenbezogenen Daten Ihrer Anmeldung, werden nur zur

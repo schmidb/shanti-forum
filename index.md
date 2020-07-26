@@ -41,7 +41,8 @@ Themen werden sein:
   und Individuum
 - Kunst und Bildung, Ein Reiseführer ins verborgene Land Belowodje
 - Interdisziplinäre Zusammenarbeit, verschiedener Religionen; gelebtes Beispiel
-- Musik Klavierkonzert, "Musik für`s Herz von romantisch bis groovig"
+- Musik Klavierkonzert, "Musik für's Herz von romantisch bis groovig"
+- Was will ich - leben oder überleben
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).
 

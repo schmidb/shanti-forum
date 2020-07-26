@@ -14,7 +14,7 @@ im	Einklang	sind.
 # Freitag, 4. Dezember 2020
 * 16.30-17.30 Registration
 * 18.30-19.30 ABENDESSEN
-* 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of life*, Shanti Yoga, Thun CH
 * 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
 FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
 übergreifende Umweltforschung.
@@ -23,8 +23,7 @@ Forschung aller umweltbedingten Faktoren
 und konnte die wesentlichen Ursachen für die
 Entstehung vieler Erkrankungen verifiziert.
 Er entwickelte ein einfach anwendbares
-Lösungskonzept das den Menschen wie-
-der mit der Ur-Schöpferkraft verbindet,
+Lösungskonzept das den Menschen wieder mit der Ur-Schöpferkraft verbindet,
 Hopfgarten A
 * 21.00-21.30 AUSSPRACHE
 * 21.30-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
@@ -65,16 +64,14 @@ INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermit
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMEN - ARBEIT VERSCHIEDENER RELIGIONEN**
-Sasikumar Tharmalingam, Hindupriester,
-Seelsorger, interreligiöser & interkulturel-
-ler Mentor (BE. FAH) Leiter Ayurvedische
+* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMENARBEIT VERSCHIEDENER RELIGIONEN**, Sasikumar Tharmalingam, Hindupriester,
+Seelsorger, interreligiöser & interkultureller Mentor (BE. FAH) Leiter Ayurvedische
 Küche, Haus der Religionen, Bern CH
 * 11.30-12.00 AUSSPRACHE
 * 12.30-13.30 MITTAGESSEN
 * 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN, Das wahre Glück, mir selbst zu begegnen**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE
 * 15.00-15.30 AUSSPRACHE
-* 15.30-15.45 **ABSCHLUSSWORTE**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of live*, Shanti Yoga, Thun CH
+* 15.30-15.45 **ABSCHLUSSWORTE**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of life*, Shanti Yoga, Thun CH
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
