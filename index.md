@@ -30,7 +30,6 @@ stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder 
 Aufbauen und Weiterentwickeln sind.
 
 ## Themen werden sein:
-- Wiederentdeckt – der Goldene, alles wieder vereinende Schlüssel für ein langes, gesundes Leben. „Sind wir nur Biochemie – oder ist da noch viel mehr“?
 - Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
   Spannungsfeld von Auf- und Abbauenden Kraftfelder
 - Lifecoaching durch Musik - Finde in dir selbst die Macht - es ist dein Geist, der deine Welt erschafft

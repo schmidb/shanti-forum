@@ -54,19 +54,6 @@ Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR 
     btn_label: "http://shanti-yoga.ch"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/fuchs.jpg
-    title: "Bernd Fuchs"
-    excerpt: "Bernd Fuchs, Elektroingenieur, geboren und aufgewachsen in der Nähe von Stuttgart, lebt seit 25 Jahren in Österreich, ist Vater von zwei Kindern und hat in Tirol seine Herzensheimat gefunden.
-    <br><br>
-    Er und seine Familie erkrankten 1999 durch die eigenen digitalen Geräte im Haushalt. Da er bereits zu dieser Zeit das nahezu verloren gegangenen Wissen von Wilhelm Reich und anderen studierte, wurde ihm durch die Erkrankungen bewusst, dass diese neue Technik das natürliche Schöpfungsfeld massiv beeinträchtigt. Ihm wurde zunehmend klarer, dass psychischer und physischer Niedergang, nur eine Frage von Zeit sein werden.
-    <br><br>
-    Er startete mit einigen Ärzten eine einzigartige, gesamtheitliche Forschung aller umweltbedingten Faktoren und konnte im direkten Gespräch mit kranken Menschen, intuitiv alle wesentlichen Ursachen für die Entstehung nahezu jeder Erkrankung verifizieren. Er entwickelte ein einfach anwendbares Lösungskonzept, welches die schlimmsten Ursachen neutralisiert und damit das Fundament von Gesundheit stabilisiert. Er konnte nachweislich vielen tausend Menschen das Leben verlängern und die Lebensqualität deutlich verbessern.
-    <br><br>
-    Bernd klärt auf, warum altbewährte Heilmethoden zunehmend an Nachhaltigkeit verlieren und wie man diesen Trend umkehren kann, indem er die Reinheit der Schöpfungskräfte den Menschen wieder zuführt. Diese sind der wichtigste Garant für gesundes Leben."
-    url: "http://terrapro.eu"
-    btn_label: "http://terrapro.eu"
-    btn_class: "btn--primary"
-
   - image_path: /assets/referenten/findeisen.jpg
     title: "Wolfgang Findeisen"
     excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE
