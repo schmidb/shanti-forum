@@ -15,18 +15,9 @@ im	Einklang	sind.
 * 16.30-17.30 Registration
 * 18.30-19.30 ABENDESSEN
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of life*, Shanti Yoga, Thun CH
-* 20.00-21.00 **WIEDERENTDECKT – DER GOLDENE, ALLES WIEDER VEREINENDE SCHLÜSSEL
-FÜR EIN LANGES, GESUNDES LEBEN. Sind wir nur Biochemie – oder ist da noch viel mehr?**, Bernd Fuchs, E-Ingenieur, 20 Jahre fach-
-übergreifende Umweltforschung.
-In Zusammenarbeit mit einigen Ärzten realisierte er eine einzigartige, gesamtheitliche
-Forschung aller umweltbedingten Faktoren
-und konnte die wesentlichen Ursachen für die
-Entstehung vieler Erkrankungen verifiziert.
-Er entwickelte ein einfach anwendbares
-Lösungskonzept das den Menschen wieder mit der Ur-Schöpferkraft verbindet,
-Hopfgarten A
-* 21.00-21.30 AUSSPRACHE
-* 21.30-22.00 AUSKLANG – STILLE – MEDITATION geleitet von Shanti Bosshart
+* 20.00-20.30 **SEOM MUSIC 'FIND IN DIR SELBST DIE MACHT – ES IST DEIN GEIST, DER DEINE WELT ERSCHAFFT' (SPIRIT, 2014)**, SEOM (Patrick Kammerer) ist Sänger, Autor, Songwriter, Lifecoach durch Musik, Special-Videoaufnahme zum Shanti-Forum 2020
+* 20.30-21.30 **PIANO MEDITATION 'DIE SIEBEN WUNDER DES LEBENS'**, Shanti Bosshart, geführte Meditation; Aki Hoffmann, Begleitung mit Piano Improvisation
+* 21.30-22.00 AUSKLANG
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
@@ -42,15 +33,13 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
 * 12.30-13.30  MITTAGESSEN
-* 14.30-15.00 **SEOM MUSIC *FIND IN DIR SELBST DIE MACHT – ES IST DEIN GEIST, DER DEINE WELT ERSCHAFFT* (SPIRIT, 2014)**, SEOM (Patrick Kammerer) ist Sänger, Autor, Songwriter, Lifecoach durch Musik, Special-Videoaufnahme zum Shanti-Forum 2020
-* 15.00-16.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
-* 16.00-16.30 AUSSPRACHE
-* 16.30-16.45 PAUSE
-* 17.00-18.00 **VIER ARBEITSGRUPPEN**
-  * GRUPPE A *Schöpfungs-Physik und Heilmethoden*, Bernd Fuchs
-  * GRUPPE B *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
-  * GRUPPE C *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
-  * GRUPPE D *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
+* 14.00-15.30 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
+* 15.30-16.00 AUSSPRACHE
+* 16.00-16.30 PAUSE
+* 16.30-18.00 **VIER ARBEITSGRUPPEN**
+  * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
+  * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
+  * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
 * 18.30-19.30 ABENDESSEN
 * 20.00-21.30 **KLAVIERKONZERT mit Aki Hoffmann**, Musik für’s Herz, von romantisch bis groovig, Aki Hoffmann ist
 Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
