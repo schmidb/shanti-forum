@@ -54,6 +54,34 @@ Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR 
     btn_label: "http://shanti-yoga.ch"
     btn_class: "btn--primary"
 
+  - image_path: /assets/referenten/schaer.jpg
+    title: "Sascha Schär - N11"
+    excerpt: "
+      Die Hauptstrasse N11 welche direkt das Geschäftsgebäude der N11 Architekten GmbH passiert, war nicht
+      nur Namensgeber der N11 Architekten GmbH, sondern wiederspiegelt sehr präzise den Charakter der
+      Büroinhaber und dient zugleich als Programm.<br><br>
+
+      Der gebirgige Charakterzug, die verschiedenen zum Teil sehr engen, steilen und dann wieder offenen
+      Seitentäler faszinierten mich schon seit den ersten Bergtouren.
+      Das Zusammenspiel von ländlicher Tradition und dem Tourismus in den Alpen, sowie die Kombination von
+      Architektur, welche einen grossen Einfluss ausüben kann, war sicherlich ein Teil meiner Motivation in den
+      Alpen ein kleines Architekturbüro zu eröffnen und eine Weiterbildung in Tourismusökonomie an der Uni
+      Bern bei Prof. Hansruedi Müller zu absolvieren. Mehrwert, Lebensqualität und zugleich eine hohe
+      architektonische Qualität der Bauwerke werden bei jedem einzelnen Projekt angestrebt.<br><br>
+
+      Der Umgang mit dem Bestand und das ökologische Bauen mit natürlichen Materialien sind Eckpfeiler
+      unserer Bürophilosophie. In Zukunft sollen private und öffentliche Bauten so erstellt werden, dass die
+      Unterhaltskosten sich auf ein Minimum begrenzen und das die eingebauten Materialien später wieder als
+      solche für weitere Objekte genutzt werden können und nicht als Sondermüll rückgebaut werden müssen.<br><br>
+
+      Die interdisziplinäre Arbeit mit der N11 Bauingenieure GmbH begleitet unsere Projekte von Beginn an. So
+      entstehen bezüglich Struktur und Materialisierung sehr wirtschaftliche Lösungen und eine hohe Ästhetik.
+      Die zeitgenössische Architektur aber auch die zukünftigen Wohn- und Arbeitsformen möchten wir auch in
+den alpinen Regionen fördern und umsetzen."
+    url: "http://www.n11.ch"
+    btn_label: "http://www.n11.ch"
+    btn_class: "btn--primary"
+
   - image_path: /assets/referenten/findeisen.jpg
     title: "Wolfgang Findeisen"
     excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE

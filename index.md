@@ -30,6 +30,7 @@ stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder 
 Aufbauen und Weiterentwickeln sind.
 
 ## Themen werden sein:
+- Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!
 - Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
   Spannungsfeld von Auf- und Abbauenden Kraftfelder
 - Lifecoaching durch Musik - Finde in dir selbst die Macht - es ist dein Geist, der deine Welt erschafft
