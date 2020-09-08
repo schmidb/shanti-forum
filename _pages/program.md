@@ -7,17 +7,17 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/maurer_flyer.jpg
 ---
-"Gelebte Zukunft":	Den	Geist	zu	entwickeln,	um	in	der	Welt	noch	tatkräftiger	zu	werden,	um	die	bestmögliche Kraft	zu	entfalten.	Als	Hilfe	um	(eigene)	Visionen
+"Gelebte Zukunft":	Das Bewusstsein	zu	entwickeln,	um	in	der	Welt	noch	tatkräftiger	zu	werden,	um	die	bestmögliche Kraft	zu	entfalten.	Als	Hilfe	um	(eigene)	Visionen
 zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
 
 # Freitag, 4. Dezember 2020
 * 16.30-17.30 Registration
-* 18.30-19.30 ABENDESSEN
+* 18.00-19.30 ABENDESSEN
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of life*, Shanti Yoga, Thun CH
 * 20.00-20.30 **SEOM MUSIC 'FIND IN DIR SELBST DIE MACHT – ES IST DEIN GEIST, DER DEINE WELT ERSCHAFFT' (SPIRIT, 2014)**, SEOM (Patrick Kammerer) ist Sänger, Autor, Songwriter, Lifecoach durch Musik, Special-Videoaufnahme zum Shanti-Forum 2020
 * 20.30 - 21.30 **HOLZ100, BAUPHILOSOPHIE OHNE HEIZUNG**, Sascha Schär, N11 Architekten REG A/SIA, Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!, Zweisimmen CH
-* 21.30-22.00 AUSKLANG
+* 21.30-22.00 AUSSPRACHE / AUSKLANG DES TAGES
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 

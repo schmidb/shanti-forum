@@ -101,6 +101,12 @@ den alpinen Regionen fördern und umsetzen."
     Heute führt Wolfgang Findeisen Schulungen u.a. mit
   Lehrern, Therapeuten und Ärzten durch, hält Vorträge und Seminare im In- und Ausland, berät Schulen und
   gibt Gruppen und Einzelberatungen."
+   url: "https://re-lux.eu"
+   btn_label: "https://re-lux.eu"
+   btn_class: "btn--primary"
+
+
+
 
   - image_path: /assets/referenten/doris.jpg
     title: "Doris Luginbühl"

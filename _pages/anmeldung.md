@@ -40,7 +40,8 @@ Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages f�
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
 Mother of life Shanti Yoga<br>
 Stichwort Shanti Forum 2020 + Name des Teilnehmers<br>
-IBAN CH57 0870 4049 7234 5910 9 / BIC AEKTCH22XXX
+IBAN CH57 0870 4049 7234 5910 9 / BIC AEKTCH22XXX<br>
+AEK BANK 1826, CH-3602 Thun
 
 Die Teilnahmegebühr versteht sich <b>exklusive</b> Hotelkosten und <b>exklusive</b> Tagespauschale. Anmeldung für Übernachtung und Bezahlung von Hotelkosten und Tagespauschale direkt an Schlosshotel Wartegg:<br>
 Telefon: +41 71 858 62 62<br>
