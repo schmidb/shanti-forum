@@ -36,7 +36,7 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 14.00-15.30 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
 * 15.30-16.00 AUSSPRACHE
 * 16.00-16.30 PAUSE
-* 16.30-18.00 **VIER ARBEITSGRUPPEN**
+* 16.30-18.00 **DREI ARBEITSGRUPPEN**
   * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
   * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
