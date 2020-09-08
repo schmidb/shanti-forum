@@ -37,6 +37,8 @@ Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
 # Anmeldeschluss 03.11.2020
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
 
+Es besteht die Möglichkeit, den Preis für das Forum in 2 Teilbeträgen (Teilbetrag für Normalpreis 2 x CHF 215 bzw. Teilbetrag für Frühbucher 2 x CHF 200) zu bezahlen, wobei der 1. Teilbetrag mit der Anmeldung zum Forum und der 2. Teilbetrag spätestens bis zum Anmeldeschluss für das Forum, d.h. bis zum 03.11.2020 verbindlich zu überweisen ist. 
+
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
 Mother of life Shanti Yoga<br>
 Stichwort Shanti Forum 2020 + Name des Teilnehmers<br>
