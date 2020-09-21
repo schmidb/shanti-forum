@@ -16,4 +16,5 @@ Danke für Ihre Unterstützung das 1. Internationale Shanti-Forum 2020 zu bewerb
 * [Social Media Picture](/assets/shanti_social_2020.jpg)
 * [Facebook Page](https://www.facebook.com/shantiforum) - Bitte Liken
 * [Facebook Event](https://fb.me/e/3pTjg65Qv) - Bitte teilen
-* Social Media Hashtags: #shanti #forum #leben #wandel #menschsein #erderetten #zukunft #zukunftvision #schlosswartegg #bodensee
+* [Linked In Event](https://www.linkedin.com/events/1-internationalesshanti-forum/)
+* Social Media Hashtags: #shanti #forum #leben #wandel #menschsein #erderetten #zukunft #zukunftvision #schlosswartegg #bodensee #konferenz #event
