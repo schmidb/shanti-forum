@@ -14,6 +14,18 @@ header:
       url: "/assets/shanti_flyer_2020_web.pdf"
     - label: "Anmeldung"
       url: "/anmeldung/"
+feature_row:
+  - image_path: /assets/references/claudia.jpg
+    alt: "Claudia Meister, Schweiz"
+    title: "Claudia Meister, Bern, Schweiz"
+    excerpt: "*'Shanti [Veranstalterin] verbindet einzigartige Menschen auf liebevolle weise und inspiriert mich mit Ihrer Vision zu Harmonie und Sicherheit'.*"
+  - image_path: /assets/references/peter.jpg
+    alt: "Peter Jansen, München, Deutschland"
+    title: "Peter Jansen, München, Deutschland"
+    excerpt: "*'Vom Shanti Forum erwarte ich mir bewegende Diskussionen zu neuen Lebensmodellen in allen Bereichen des Mensch-Seins.'*"
+#  - image_path: /assets/references/bio-photo.jpg
+#    title: "Placeholder 3"
+#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 Was Anfang vom Jahr 2019 als Vision begann, wird nun real umgesetzt in ein
 breitgefächertes Spektrum von Themen und Referenten die Tätig sind in ganz
@@ -25,9 +37,12 @@ Jedoch gibt es auch sehr viele Bemühungen von Menschen
 und Institutionen, die im aufbauenden und schützenden Tätig sind für die Erde,
 den Menschen- Tier- und Pflanzenwelt.
 
-An diesem 1. Internationalen Shanti-Forum kommen [Menschen](referenten) zu Wort und
+An diesem **1. Internationalen Shanti-Forum am 4. - 6. Dezember 2020 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
+
+## Stimmen von Teilnehmern
+{% include feature_row %}
 
 ## Themen werden sein:
 - Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!
