@@ -125,7 +125,7 @@ den alpinen Regionen fördern und umsetzen."
     				Sie lebt in einem Bauernhaus in der Nähe von
     				Courtion CH"
 
-  - image_path: /assets/referenten/schmidberger.jpg
+  - image_path: /assets/referenten/schmidberger2.jpeg
     title: "Miriam & Markus Schmidberger mit 4 Kindern"
     excerpt: "Miriam und Markus Schmidberger leben Familie als Kooperations-Gemeinschaft und reisen mit ihren Kindern zwischen Berlin und der Welt. Offen teilen Sie ihren Weg und ihre Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br><br>
 Ihr Ziel ist ein offener und authentischer Umgang untereinander als Paar wie auch mit ihren Kindern. *'Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen.'* Ein konstruktiver Umgang miteinander als Paar und mit ihren Kindern hilft ihnen dabei neue Wege zu gehen: Kooperationsgemeinschaft, Selbstbestimmtes Lernen, natürliche Geburt, Gefühle bewusst fühlen, Beziehung statt Erziehung, ...<br><br>

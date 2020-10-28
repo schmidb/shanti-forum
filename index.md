@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-title: "1. Internationales Shanti-Forum am 4. - 6. Dezember 2020 zum Thema 'Gelebte Zukunft'"
+title: "1. Internationales Shanti-Forum am 5. - 7. November 2021 zum Thema 'Gelebte Zukunft'"
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
@@ -27,6 +27,38 @@ feature_row:
 #    title: "Placeholder 3"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
+
+**Absage** des: „ERSTEN INTERNATIONALEN SHANTI-FORUM 2020, GELEBTE ZUKUNFT“
+4.-6. Dezember 2020, Bio Schlosshotel Wartegg,  CH-9404 Rorschacherberg
+
+WIR BLEIBEN DRAN!
+
+**Verschiebedatum 5.-7. November 2021**
+
+Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung.
+Alte Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Unter den gegebenen Umständen durch die Covid19 Pandemie und den zunehmenden Vorschriften des BAG  kann das „Erste Internationale Shanti-Forum 2020, Gelebte Zukunft“ nicht wie geplant durchgeführt werden.
+
+Im Ersten Internationalen Shanti-Forum 2020, Gelebte Zukunft sind ausschließlich Referenten die sich bereits für die Realisation der Zukunft entschieden haben und sich tatkräftig dafür einsetzen. Dies in ganz verschiedenen Berufs- und Sozialbereichen.
+
+„GEMEINSAM EINE NEUE ERDE ERSCHAFFEN“<br>
+„STEH AUF! ERWACHE! HALTE NICHT AN, BIS DU DAS ZIEL ERREICHT HAST!<br>
+„STEH AUF UND SEI FREI“<br>
+„ERKENNE DEINE MACHT UND STÄRKE“ SEI GLÜCKLICH UND IM FRIEDEN“<br>
+Diese Worte sind nicht neu, wurden schon vor mehr als 5000 Jahren in Indien verkündigt.
+Wiedergegeben von Menschen wie: Swami Vivekananda, Selvarajan Yesudian u.a.m.
+
+„LASST EUER LICHT SO STRAHLEN VOR MENSCHEN, DASS SIE  EUERE GUTEN WERKE SEHEN“<br>
+Diese und ähnliche Worte wurde auch überliefert von Jesus.
+
+Möchtet Ihr meine / unsere Bemühungen und unsere Arbeit mit einem kleinen Beitrag unterstützen so Danken wir das von Herzen!<br>
+Bankverbindung:<br>
+AEK Bank 1826, 3602 Thun, IBAN CH57 0870 4049 7234 5910 9, IID/BC-Nr. 08704<br>
+SWIFT AEKTCH22, Vermerk: „Intern. Shanti-Forum“
+
+
+
+# WIR BLEIBEN DRAN! - Verschiebedatum 5.-7. November 2021
+
 Was Anfang vom Jahr 2019 als Vision begann, wird nun real umgesetzt in ein
 breitgefächertes Spektrum von Themen und Referenten die Tätig sind in ganz
 verschiedenen Lebensbereichen.
@@ -37,7 +69,7 @@ Jedoch gibt es auch sehr viele Bemühungen von Menschen
 und Institutionen, die im aufbauenden und schützenden Tätig sind für die Erde,
 den Menschen- Tier- und Pflanzenwelt.
 
-An diesem **1. Internationalen Shanti-Forum am 4. - 6. Dezember 2020 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
+An diesem **1. Internationalen Shanti-Forum am 5. - 7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
 

@@ -14,8 +14,8 @@ Kunstschaffende, Eltern, Erzieher, …
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
 <p><select name="preis" size="1">
-<option>Frühbucherpreis bis 30.09.2020 - 395 CHF</option>
-<option>Normalpreis bis 03.11.2020 - 425 CHF</option>
+<option>Frühbucherpreis bis 30.09.2021 - XXX CHF</option>
+<option>Normalpreis bis 03.11.2021 - XXX CHF</option>
 </select></p><p>
 Rabattcode:<input type="text" name="rabatt">
 </p>
@@ -34,10 +34,10 @@ Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
 </form>
 <br><br>
 
-# Anmeldeschluss 03.11.2020
+# Anmeldeschluss 03.11.2021
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
 
-Es besteht die Möglichkeit, den Preis für das Forum in 2 Teilbeträgen (Teilbetrag für Normalpreis 2 x CHF 215 bzw. Teilbetrag für Frühbucher 2 x CHF 200) zu bezahlen, wobei der 1. Teilbetrag mit der Anmeldung zum Forum und der 2. Teilbetrag spätestens bis zum Anmeldeschluss für das Forum, d.h. bis zum 03.11.2020 verbindlich zu überweisen ist. 
+Es besteht die Möglichkeit, den Preis für das Forum in 2 Teilbeträgen (Teilbetrag für Normalpreis 2 x CHF 215 bzw. Teilbetrag für Frühbucher 2 x CHF 200) zu bezahlen, wobei der 1. Teilbetrag mit der Anmeldung zum Forum und der 2. Teilbetrag spätestens bis zum Anmeldeschluss für das Forum, d.h. bis zum 03.11.2020 verbindlich zu überweisen ist.
 
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
 Mother of life Shanti Yoga<br>

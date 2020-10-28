@@ -7,6 +7,13 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/maurer_flyer.jpg
 ---
+**Verschiebedatum 5.-7. November 2021**
+
+Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung.
+Alte Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Unter den gegebenen Umständen durch die Covid19 Pandemie und den zunehmenden Vorschriften des BAG  kann das „Erste Internationale Shanti-Forum 2020, Gelebte Zukunft“ nicht wie geplant durchgeführt werden.
+
+
+
 "Gelebte Zukunft":	Das Bewusstsein	zu	entwickeln,	um	in	der	Welt	noch	tatkräftiger	zu	werden,	um	die	bestmögliche Kraft	zu	entfalten.	Als	Hilfe	um	(eigene)	Visionen
 zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
 im	Einklang	sind.
