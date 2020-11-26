@@ -84,6 +84,9 @@ analytics:
   google:
     tracking_id: "UA-167091919-1"
     anonymize_ip: false # default
+    tracking_id: "G-P3E8WT43XE"
+    anonymize_ip: false # default
+
 
 compress_html:
   clippings: all
