@@ -73,9 +73,6 @@ An diesem **1. Internationalen Shanti-Forum am 5. - 7. November 2021 im Schlossh
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
 
-## Stimmen von Teilnehmern
-{% include feature_row %}
-
 ## Themen werden sein:
 - Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!
 - Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
