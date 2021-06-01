@@ -4,14 +4,14 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: splash
 author_profile: false
-title: "1. Internationales Shanti-Forum am 5. - 7. November 2021 zum Thema 'Gelebte Zukunft'"
+title: "1. Internationales Shanti-Forum am 5. - 7. November 2021 zum Thema 'WE ARE ONE - Gelebte Zukunft'"
 header:
   overlay_color: "#00f"
   overlay_filter: "0.5"
   overlay_image: /assets/images/spring_640.jpg
   actions:
     - label: "Download Flyer"
-      url: "/assets/shanti_flyer_2020_web.pdf"
+      url: "/assets/shanti_flyer_2021_web.pdf"
     - label: "Anmeldung"
       url: "/anmeldung/"
 feature_row:
@@ -28,48 +28,25 @@ feature_row:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-**Absage** des: „ERSTEN INTERNATIONALEN SHANTI-FORUM 2020, GELEBTE ZUKUNFT“
-4.-6. Dezember 2020, Bio Schlosshotel Wartegg,  CH-9404 Rorschacherberg
 
-WIR BLEIBEN DRAN!
+Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung. Alte
+Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Was im
+Frühjahr 2019 als Zukunfts-Vision begann musste aus Gründen der Weltweiten
+Einschränkungen warten, doch nun scheint die Zeit reif dafür zu sein.
 
-**Verschiebedatum 5.-7. November 2021**
+**GEMEINSAM sind wir stark!**
 
-Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung.
-Alte Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Unter den gegebenen Umständen durch die Covid19 Pandemie und den zunehmenden Vorschriften des BAG  kann das „Erste Internationale Shanti-Forum 2020, Gelebte Zukunft“ nicht wie geplant durchgeführt werden.
+Weltweit ist ein nicht übersehbarer Wandel im Gange, sowohl im individuell menschlichen wie auch in vielen wirtschaftlichen Bereichen. Wo führt das hin? Diese Fragen stellen sich viele Menschen!
 
-Im Ersten Internationalen Shanti-Forum 2020, Gelebte Zukunft sind ausschließlich Referenten die sich bereits für die Realisation der Zukunft entschieden haben und sich tatkräftig dafür einsetzen. Dies in ganz verschiedenen Berufs- und Sozialbereichen.
+**„WE ARE ONE“**
 
-„GEMEINSAM EINE NEUE ERDE ERSCHAFFEN“<br>
-„STEH AUF! ERWACHE! HALTE NICHT AN, BIS DU DAS ZIEL ERREICHT HAST!<br>
-„STEH AUF UND SEI FREI“<br>
-„ERKENNE DEINE MACHT UND STÄRKE“ SEI GLÜCKLICH UND IM FRIEDEN“<br>
-Diese Worte sind nicht neu, wurden schon vor mehr als 5000 Jahren in Indien verkündigt.
-Wiedergegeben von Menschen wie: Swami Vivekananda, Selvarajan Yesudian u.a.m.
+Es gibt sehr viele Bemühungen Weltweit, Menschen die sich einsetzen zur Heilung von Mutter Erde, den Menschen- Tier- Pflanzen- und Mineralreiche.
+MITSCHÖPFER zu Sein heisst: *Ich trage Mitverantwortung und meine heilenden Gedanken und Taten verändern meine Lebensumstände und haben Einfluss auf die gesamte Schöpfung. Ebenso tragen negative Gedanken und Taten dazu bei zerstörende Energien zu unterstützen.*
 
-„LASST EUER LICHT SO STRAHLEN VOR MENSCHEN, DASS SIE  EUERE GUTEN WERKE SEHEN“<br>
-Diese und ähnliche Worte wurde auch überliefert von Jesus.
+Das Ziel dieses Forums ist uns Gegenseitig zu inspirieren, aufzuwachen, Ziele zu erarbeiten,
+GEMEINSAM erschaffen wir neue Gesellschaftsformen, ergänzend entstehen neue Formen des Zusammenlebens. Nur so kann eine neue friedvolle Erde entstehen, durch Menschen die bestrebt sind in Harmonie und Zusammenzuarbeiten, im Einklang mit der gesamten Schöpfung zu leben.
 
-Möchtet Ihr meine / unsere Bemühungen und unsere Arbeit mit einem kleinen Beitrag unterstützen so Danken wir das von Herzen!<br>
-Bankverbindung:<br>
-AEK Bank 1826, 3602 Thun, IBAN CH57 0870 4049 7234 5910 9, IID/BC-Nr. 08704<br>
-SWIFT AEKTCH22, Vermerk: „Intern. Shanti-Forum“
-
-
-
-# WIR BLEIBEN DRAN! - Verschiebedatum 5.-7. November 2021
-
-Was Anfang vom Jahr 2019 als Vision begann, wird nun real umgesetzt in ein
-breitgefächertes Spektrum von Themen und Referenten die Tätig sind in ganz
-verschiedenen Lebensbereichen.
-
-Weltweit ist ein nicht übersehbarer Wandel im Gange, sowohl im individuell menschlichen
-wie auch in vielen wirtschaftlichen Bereichen. Wachstum stößt an ihre Grenzen!
-Jedoch gibt es auch sehr viele Bemühungen von Menschen
-und Institutionen, die im aufbauenden und schützenden Tätig sind für die Erde,
-den Menschen- Tier- und Pflanzenwelt.
-
-An diesem **1. Internationalen Shanti-Forum am 5. - 7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
+GEMEINSAM erschaffen wir eine Neue Welt, eine friedvollere Welt für unsere Kinder und die Kinder unserer Kinder und allen Generationen die danach kommen. An diesem **1. Internationalen Shanti-Forum am 5. - 7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
 stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
 Aufbauen und Weiterentwickeln sind.
 
@@ -90,4 +67,4 @@ Aufbauen und Weiterentwickeln sind.
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).
 
-Download Flyer: [Druckversion](/assets/shanti_flyer_2020_druck.pdf), [Webversion](/assets/shanti_flyer_2020_web.pdf)
+Download Flyer: [Druckversion](/assets/shanti_flyer_2021_druck.pdf), [Webversion](/assets/shanti_flyer_2021_web.pdf)

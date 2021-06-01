@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 1. Internationales Shanti-Forum 2020
+title: 1. Internationales Shanti-Forum 2021
 email: info@shanti-yoga.ch
 url: https://shanti-forum.eu
 #baseurl: /shanti-forum
