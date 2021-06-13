@@ -8,64 +8,31 @@ header:
   overlay_image: /assets/images/nature2_640.jpg
 ---
 
-LIEBE MITGESTALTER
-DER NEUEN ZEIT …
-DAS NUR IM TEAMWORK
-MÖGLICH IST!
+**"WE ARE ONE - Gelebte Zukunft"**
 
-Die	Not	der	Gegenwart	hat	mich inspiriert,	ein
-Forum	zu	gründen,	mit	Menschen,	die	bereits	tatkräftig	und	mit	beeindruckenden	Initiativen	leben.
+Was hat mich im Frühjahr 2019 dazu bewogen, dieses Forum ins Leben zu rufen?
 
-Als	Referenten	werden	zu	hören	sein,	Menschen
-aus	ganz	verschiedenen	Richtungen,	Tätigkeiten
-und	Berufen.
+Schon damals konnte man voraussehen, dass eine Wende bevorsteht, dessen Umfang jedoch noch nicht sichtbar war. Die Menschheit steht heute vor großen Herausforderungen die wir nur GEMEINSAM und damit meine ich Gemeinsam im MITEINANDER, im Teamwork zusammen mit der Gesamtschöpfung meistern können.
 
-Eines	haben	alle	gemeinsam:	Jeder	von	ihnen
-setzt	sich	ein	für	zukunftsgerichtete	Projekte	und
-zukunftsgerichtete	Ideen	zum	Schutze	des	Lebens,
-für	die	Erde,	Mensch-,	Tier-	und	Pflanzenwelt	und
-leistet	somit	einen	Beitrag	an	die	gesamte	Schöpfung.
+In den vergangenen Jahrhunderten, insbesondere in den letzten 150 Jahren ist der Mensch in körperlicher, geistiger und emotionaler Hinsicht aus der gesunden und stabilen Balance geraten und hat sich zunehmend von einem Leben im Einklang mit den Naturgesetzen entfernt.
 
-*Nichts	existiert	unabhängig	voneinander.*
+Die Schriften vieler alten Kulturen weisen darauf hin, dass wir als Menschheit vor einem Wendepunkt stehen. Das dunkle Zeitalter, in der indischen Kultur Kali Yuga genannt, ist ein Zeitalter der Spaltung und der ausschließlichen Hinwendung zum Materiellen. Wir stehen laut den Prophezeiungen der Weisen als Menschheit jetzt an der Schwelle zu einem neuen, lichteren Zeitalter und ein globales Erwachen setzt sichtbar ein.
 
-Wenn	Zerstörung	der	Natur	passiert,	betrifft	das
-die	gesamte	Schöpfung.	Durch	das	Ausbeuten
-der	Erde	und	Verunreinigen	von	Wasser,	Luft	und
-Erde	bringt	der	Mensch	sich	selbst	und	die	ganzen
-	Naturressourcen	in	große	Gefahr.
+Wenn Zerstörung der Natur passiert betrifft das die gesamte Schöpfung. Durch das Ausbeuten der Erde und die Verunreinigungen von Wasser, Luft und Erde bringt der Mensch sich selbst und die ganzen Naturressourcen in große Gefahr. Es ist nun an uns, jedem Einzelnen, unseren individuellen Erweckungsprozess zu unterstützen und dadurch ein kommendes neues Zeitalter mitzugestalten.
 
-Dieses	«1.	Internationale	Shanti-Forum	2020»
-  möchte	eine	Inspiration	sein	für	verantwortungsbewusstes	Handeln.
+Dieses **1. Internationale Shanti-Forum 2021** möchte eine Inspiration sein für verantwortungsbewusstes Handeln.
 
-Wege	aufzeigen	wie	wir	unser	Leben,	unser
-  Bewusstsein	im	Alltag	so	gestalten	können,
-  dass	wir	unseren	Kindern	und	zukünftigen
-  Generationen	auf	der	Erde	eine	glückliche	Zukunft	in	Eigenverantwortung	zur	gesamten
-  Schöpfung	weitergeben	können.	Und	das	ist
-  nur	möglich	durch	gelebte	Vorbilder	und	beispielhaftes	Handeln.
+Wege aufzeigen wie wir unser Leben, unser Bewusstsein im Alltag so gestalten können, dass wir unseren Kindern und zukünftigen Generationen auf der Erde eine glückliche Zukunft in Eigenverantwortung zur gesamten Schöpfung weitergeben können. Das ist nur möglich durch gelebte Vorbilder und beispielhaftes Handeln.
 
-*Die	grösste	Gefahr	besteht	nicht	darin,	dass
-  wir	uns	zu	hohe	Ziele	stecken	und	daran	scheitern,	sondern	darin,	dass	wir	uns	zu	niedrige
-  Ziele	stecken	und	sie	erreichen.*
-  Michelangelo (1475–1564)
+Als Referenten werden [Menschen](referenten) aus ganz verschiedenen Richtungen, Tätigkeiten und Berufen zu hören sein.
+Eines haben sie alle gemeinsam: Jeder von Ihnen setzt sich für zukunftsgerichtete Projekte und Ideen zum Schutz des Lebens, für die Erde, den Menschen und die Tier- und Pflanzenwelt ein und leistet somit einen Beitrag an die gesamte Schöpfung.
 
-Was	damals	*Michelangelo*	der	Welt	vorlebte
-  bis	ins	hohe	Alter,	ist	Heute	für	uns	Menschen
-  noch	genauso	möglich.	Sich	einzusetzen	für
-  das	Gute	–	für	das	Heilende	–	für	die	Fülle	des
-  Lebens!
+Mögen viele Menschen den Ruf in ihrem Herzen hören und möge in diesen drei gemeinsamen Tagen viel Heilsamens und Kreatives entstehen.
 
-Mut	ist	die	Qualität	des	Herzens	–	zusammen
-  mit	Vertrauen	in	die	eigene	Kraft	und	Stärke,
-  sind	wir	nicht	nur	in	der	Lage	unser	eigenes
-  	Leben	und	unsere	Lebensumstände	zu	verändern,	sondern	leisten	wir	auch	einen	Beitrag
-  an	die	Kraft	des	allumfassenden	globalen	Bewusstseins.
+In diesem Sinne herzliche Grüße
+<br>Auch im Namen des Vorbereitungskreises
 
-In	diesem	Sinne	grüße	ich	Sie/Dich	ganz	herzlich	im	Namen	des	Vorbereitungskreises	und
-  freue	mich	auf	Ihr/Dein	Kommen	und	aktives
-  Mitgestalten.
-
-Shanti	Bosshart
+Shanti Bosshart
 
 <img src="/assets/referenten/shanti2.jpg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />

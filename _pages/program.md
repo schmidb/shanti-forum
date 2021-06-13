@@ -7,18 +7,8 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/maurer_flyer.jpg
 ---
-**Verschiebedatum 5.-7. November 2021**
 
-Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung.
-Alte Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Unter den gegebenen Umständen durch die Covid19 Pandemie und den zunehmenden Vorschriften des BAG  kann das „Erste Internationale Shanti-Forum 2020, Gelebte Zukunft“ nicht wie geplant durchgeführt werden.
-
-
-
-"Gelebte Zukunft":	Das Bewusstsein	zu	entwickeln,	um	in	der	Welt	noch	tatkräftiger	zu	werden,	um	die	bestmögliche Kraft	zu	entfalten.	Als	Hilfe	um	(eigene)	Visionen
-zu	realisieren,	welche	für	die	Welt	und	die	Schöpfung
-im	Einklang	sind.
-
-# Freitag, 4. Dezember 2020
+# Freitag, 5. November 2021
 * 16.30-17.30 Registration
 * 18.00-19.30 ABENDESSEN
 * 19.45-20.00 **EINFÜHRUNG IN DAS FORUM THEMA 'Gelebte Zukunft'**, Shanti Bosshart, Organisatorin, Initiantin von *Mother of life*, Shanti Yoga, Thun CH
@@ -28,11 +18,11 @@ im	Einklang	sind.
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-# Samstag, 5. Dezember 2020
-* 9.00-10.00 **DAS WIRKEN DES ÄTHERISCHEN IM ÜBER-
-UND UNTERSINNLICHEN. DER MENSCH IM SPANNUNGSFELD VON
-AUF- UND ABBAUENDEN KRAFTFELDERN**, Wolfgang Findeisen, ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive
-Zusammenarbeit mit Ärzten. Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE
+# Samstag, 6. November 2021
+* 9.00-10.00 **Projekt: ADLSTRASS „Paradies gemeinsam erschaffen und erleben“**,
+		Matthias Tafelmeier, erster Vorstand Interessengemeinschaft ADLSTRASS
+		e.V., Landschaftsgärtnermeister voller Begeisterung. Er lebt die
+		Verantwortung für eine vielfältige und gesunde Natur.
 * 10.00-10.30 AUSSPRACHE
 * 10.30-10.45 PAUSE
 * 10.45-11.15 **DIE KRAFT DER ENTFALTUNG DER
@@ -44,7 +34,7 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 15.30-16.00 AUSSPRACHE
 * 16.00-16.30 PAUSE
 * 16.30-18.00 **DREI ARBEITSGRUPPEN**
-  * GRUPPE A *Wie finde ich den Zugang zu den ­Lebenskräften*, Wolfgang Findeisen
+  * GRUPPE A *tbd*
   * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
 * 18.30-19.30 ABENDESSEN
@@ -54,15 +44,14 @@ Konzertpianist und Dozent an der Hochschule der Künste Bern, CH
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-# Sonntag, 6. Dezember 2020
+# Sonntag, 7. November 2021
 * 9.00-10.00 **KUNST UND BILDUNG, EIN REISEFÜHRER
 INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermittler (CAS Teaching Artist), Weltreisender, Gründer des Künstlerkollektivs MaMi,
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.30 **INTERDISZIPLINÄRE ZUSAMMENARBEIT VERSCHIEDENER RELIGIONEN**, Sasikumar Tharmalingam, Hindupriester,
-Seelsorger, interreligiöser & interkultureller Mentor (BE. FAH) Leiter Ayurvedische
-Küche, Haus der Religionen, Bern CH
+* 10.30-11.30 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Luft, Wasser, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
+		Haus der Religionen, Bern CH
 * 11.30-12.00 AUSSPRACHE
 * 12.30-13.30 MITTAGESSEN
 * 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN, Das wahre Glück, mir selbst zu begegnen**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE

@@ -10,45 +10,67 @@ feature_row:
   - image_path: /assets/referenten/shanti.jpg
     title: "Shanti Bosshart"
     excerpt: "
-  Durch einen inneren Impuls und eine tiefe persönliche Erfahrung im vergangenen Jahr 2019 entstand
-für Alle, die einen neuen Weg gehen möchten, das „Erste Internationale Shanti-Forum 2020, Gelebte
-Zukunft“.<br><br>
-
-Zunehmend wird das Leben auf dem Planeten Erde gefährdet, durch verschiedene Eingriffe des
-Menschen in die Resourcen und das elektromagnetische Feld aller Lebewesen. Dazu befinden wir uns
-in einem sogenannten „Aufstiegsprozess“, welcher auch rein physikalisch messbar ist, z.B. durch die
-Schumann Frequenzen - Wellen bestimmter Frequenzen, die stehende Wellen um die Erde herum
-bilden und Einfluss nehmen auf das Energiefeld des Menschen, ja aller Lebewesen.<br><br>
-
-Wir befinden uns in einer nicht übersehbaren globalen Veränderung, das Erdmagnetfeld schwächt
-sich ab, die globalen elektromagnetischen Resonanzen verändern sich.
-Wie wirken sich die Schumann-Resonanzen und die Veränderung durch gepulste Energien wie 5G auf
-den Menschen aus? Mehr dazu erfahren sie am Shanti-Forum 2020.<br><br>
-
-**Freudvollen Mut in Leichtigkeit zu neuen Lebensformen!**
-Viele Menschen wagen es nicht zu zeigen wer sie wirklich sind aus Angst davor, von den Anderen
-abgelehnt zu werden. Es braucht sehr viel Mut um sich der Herzliebe zu öffnen und seine verletzliche
-Seiten zu offenbaren dennoch, ist es das einzig wahre und wichtige JETZT seine eigenen Visionen
-wahrzunehmen und zu verwirklichen. Zusammen mit gleichgesinnten offenherzigen Menschen zu
-teilen zum höchsten Wohle aller, Mensch, Tier und Natur/Erde. Wir leben in einer für uns absolut
-entscheidenden Zeit für das JETZT und die ZUKUNFT für uns - und Alle die nach uns kommen.<br><br>
-
-Als Hochsensible mit erweiterter Wahrnehmung der Dinge, die um mich herum abliefen, inkarnierte
-ich mich 1950 in der Schweiz. Das was mich, seit ich bewusst Wahrnehmen konnte verwirrte, war
-dass das was ich in meinem inneren fühlte, meine innere Wahrheit, oft bis zu 100% nicht mit der
-äusseren Realität übereinstimmten.
-Das entsprach so oft gar nicht meiner inneren Weisheit, die mir sagte; „hilf jedem anderen
-Menschen, jedem Wesen so gut du kannst bei seiner Entwicklung und Bemühungen zum
-Weiterkommen in seine eigene Kraft zu kommen und das eigene Potential zu entfalten.<br><br>
-
-Mein Weg führte mich durch die Höhen und Tiefen des Lebens, ich begegnete vielen Menschen,
-Gelehrten, Weisen, Yogis, in verschiedenen Kulturen – doch das Wichtigste lernte ich von den kleinen
-Kindern die noch ihr wahres Wesen offenbaren und ganz ehrlich mitteilen und ihre Gefühle imstande
-sind auszudrücken – wenn sie nicht schon vom Mutterleib an verändert werden!
-(Mehr über meinen beruflichen Bildungsweg gibt es unter www.shanti-yoga.ch)<br><br>
-
-Freue DICH auf spannende 3 Tage im SHANTI-FORUM 2020, GELEBTE ZUKUNFT, voller wunderbaren
-Begegnungen – die kostbarste davon ist die Begegnung in deinem Herzen mit DIR SELBST!!
+    *Das Leben schläft im Stein,
+      schlummert in der Pflanze,
+      träumt im Tier und
+      erwacht im Menschen.*
+<br><br>
+    Besser könnte man das Leben
+    wohl kaum beschreiben! Der Kreislauf des Lebens hat
+    mich schon immer fasziniert. Durch einen inneren Impuls und
+    Eine tiefe persönliche Erfahrung,
+    im Jahr 2019 entstand dieses
+    Forum.
+<br><br>
+    Freudvollen Mut in Leichtigkeit
+    zu neuen Lebensformen! Viele
+    Menschen wagen es nicht zu
+    zeigen wer sie wirklich sind aus
+    Angst davor, von den Mitmenschen
+    ausgeschlossen oder abgelehnt
+    zu werden. Es braucht sehr viel
+    Mut um sich der HERZLIEBE
+    zu öffnen und seine verletzlichen
+    Seiten zu offenbaren dennoch,
+    ist es das einzig wahre und
+    wichtige JETZT seine eigenen
+    Visionen wahrzunehmen und
+    sie zu verwirklichen.
+    GEMEINSAM mit gleichgesinnten
+    offenherzigen Menschen neues
+    zu gestalten, zu wagen – neue
+    Lebensformen, Möglichkeiten
+    neuer Oekologie. Ein Leben zu
+    wählen im Einklang mit den
+    Naturgesetzten zum höchsten
+    Wohle aller, der menschlichen
+    Gemeinschaft, Tier Natur Erde
+    Kosmos. Wir leben in einer für
+    uns absolut entscheidenden Zeit
+    für das JETZT und die ZUKUNFT
+    für uns – und Alle kommenden
+    Generationen.
+<br><br>
+    **WE ARE ONE**
+    <br><br>
+    Mein Weg führte mich durch die Höhen
+    und Tiefen des Lebens, ich begegnete
+    vielen Menschen, Gelehrten, Weisen,
+    Yogis, aus verschiedensten Kulturkreisen
+    - doch das Wichtigste lernte ich von den
+    kleinen Kindern die noch ihr wahres
+    Wesen offenbaren und ganz ehrlich
+    mitteilen und imstande sind ihre Gefühle
+    offen auszudrücken. 'Kinder sind der
+    Segen dieser Erde und müssen beschützt
+    werden'!
+<br><br>
+    Freue DICH auf spannende 3 Tage
+    am 1. Internationalen Shanti-Forum
+    „WE ARE ONE“ Gelebte Zukunft.
+    voller inspirierender Begegnungen –
+    die kostbarste davon ist die Begegnung
+    in deinem Herzen mit DIR SELBST.
 "
     url: "http://shanti-yoga.ch"
     btn_label: "http://shanti-yoga.ch"
@@ -82,28 +104,20 @@ den alpinen Regionen fördern und umsetzen."
     btn_label: "http://www.n11.ch"
     btn_class: "btn--primary"
 
-  - image_path: /assets/referenten/findeisen.jpg
-    title: "Wolfgang Findeisen"
-    excerpt: "ehem. Waldorf- und Sonderschullehrer, 30 Jahre intensive Ärzten, Erforschung Zusammenhänge Medizin und Pädagogik, Heiligenberg DE
+
+
+  - image_path: /assets/referenten/tafelmeier.jpg
+    title: "Matthias Tafelmeier, Projekt Adlstrasse"
+    excerpt: "Matthias Tafelmeier, der erste Vorstand der Interessengemeinschaft Adlstraß e. V. ist Landschaftsgärtnermeister voller Begeisterung und lebt die Verantwortung für eine vielfältige und gesunde Natur.
     <br><br>
-    Wolfgang Findeisen (geboren 1942) war tätig als
-    Lehrer an Freien Waldorfschulen wie auch in der
-    Heilpädagogik. Gründer der Firma ReLux GmbH,
-    Frickingen DE.
-    <br><br>
-    Er suchte stets die pädagogische Praxis mit medizinischer Sichtweise zu verbinden. Durch den Schulungsweg Rudolf Steiners und seit der Begegnung mit Stylianos Atteshlis (Daskalos) entwickelte er eine Forschungsmethode, durch die zur
-    äußeren Ansicht der Phänomene deren inneren
-  Kräfte unmittelbar zur Anschauung gelangen. Durch
-  Diese Methodik lassen sich Medizin, Psychiatrie,
-  Pädagogik, Heilpädagogik u.a.m. neu durchdringen
-    und deren Wechselseitigkeit in neuer Weise verstehen
-    <br><br>
-    Heute führt Wolfgang Findeisen Schulungen u.a. mit
-  Lehrern, Therapeuten und Ärzten durch, hält Vorträge und Seminare im In- und Ausland, berät Schulen und
-  gibt Gruppen und Einzelberatungen."
-    url: "https://re-lux.eu"
-    btn_label: "https://re-lux.eu"
+    In unserem gemeinwohlorientiertem Landschaftsgestaltungsprojekt geht es darum, eine Fläche von 45 Hektar enkeltauglich umzugestalten. Unser Verein Interessengemeinschaft Adlstraß e.V. ist der Träger unseres Projekts. Gemeinsam mit vielen Vereinsmitgliedern gestalten und pflegen wir die Landschaft um unseren Hof herum, um die gesamte Artenvielfalt von Pflanzen, Tieren, Bodenorganismen u.v.m. zu fördern. Dabei pflanzen wir Bäume in die Landschaft, renaturieren Teiche, extensivieren Wiesen mit Blumen und Kräutern, beschäftigen uns mit Wild- und Streuobst, Heckengestaltung, Kompostbereitung, artenreichen Waldumbau, Gemüse- und Kräuteranbau, Lebensmittelherstellung sowie dem Umsetzen von ökologischen Bau- und Renovierungsmaßnahmen vor Ort.
+    <br>Die sinnvolle Verwendung der Rohstoffe, welche uns die Natur zur Verfügung stellt lässt uns dabei sehr kreativ werden.
+    <br>Wir wollen unserer Natur wieder etwas zurückgeben für das, was ihr genommen wurde und den Weg zu einer solidarischen Gesellschaft gehen.
+ "
+    url: "http://www.lebendiges-jetzt.com"
+    btn_label: "http://www.lebendiges-jetzt.com"
     btn_class: "btn--primary"
+
 
   - image_path: /assets/referenten/doris.jpg
     title: "Doris Luginbühl"
@@ -130,8 +144,8 @@ den alpinen Regionen fördern und umsetzen."
     excerpt: "Miriam und Markus Schmidberger leben Familie als Kooperations-Gemeinschaft und reisen mit ihren Kindern zwischen Berlin und der Welt. Offen teilen Sie ihren Weg und ihre Transformationsprozesse von Kindern zu Erwachsenen zu Eltern und zu authentischen Menschen.<br><br>
 Ihr Ziel ist ein offener und authentischer Umgang untereinander als Paar wie auch mit ihren Kindern. *'Das klappt nicht jeden Tag. Wir machen Fehler und wollen daraus wieder lernen.'* Ein konstruktiver Umgang miteinander als Paar und mit ihren Kindern hilft ihnen dabei neue Wege zu gehen: Kooperationsgemeinschaft, Selbstbestimmtes Lernen, natürliche Geburt, Gefühle bewusst fühlen, Beziehung statt Erziehung, ...<br><br>
 Durch Coachings, Workshops und Seminare teilen Sie ihre Erfahrung mit Eltern, Familien und Firmen die wirkliche Familienfreundlichkeit anstreben."
-    url: "https://familien-transformation.de"
-    btn_label: "https://familien-transformation.de"
+    url: "https://turtletrafo.de"
+    btn_label: "https://turtletrafo.de"
     btn_class: "btn--primary"
 
 

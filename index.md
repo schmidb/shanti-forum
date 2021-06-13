@@ -29,10 +29,11 @@ feature_row:
 ---
 
 
-Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung. Alte
-Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen! Was im
-Frühjahr 2019 als Zukunfts-Vision begann musste aus Gründen der Weltweiten
-Einschränkungen warten, doch nun scheint die Zeit reif dafür zu sein.
+Wir leben in einer Zeit des Übergangs und der nicht übersehbaren Veränderung.
+Alte Strukturen sind am zerbröckeln und neue Werte und Projekte am entstehen!
+
+Was im Frühjahr 2019 als Zukunfts-Vision begann musste aus Gründen der weltweiten
+Einschränkungen warten, doch nun ist die Zeit reif dafür.
 
 **GEMEINSAM sind wir stark!**
 
@@ -40,30 +41,31 @@ Weltweit ist ein nicht übersehbarer Wandel im Gange, sowohl im individuell mens
 
 **„WE ARE ONE“**
 
-Es gibt sehr viele Bemühungen Weltweit, Menschen die sich einsetzen zur Heilung von Mutter Erde, den Menschen- Tier- Pflanzen- und Mineralreiche.
-MITSCHÖPFER zu Sein heisst: *Ich trage Mitverantwortung und meine heilenden Gedanken und Taten verändern meine Lebensumstände und haben Einfluss auf die gesamte Schöpfung. Ebenso tragen negative Gedanken und Taten dazu bei zerstörende Energien zu unterstützen.*
+Es gibt sehr viele Bemühungen weltweit. Menschen, die sich einsetzen zur Heilung von Mutter Erde, für die Menschen und das Tier-, Pflanzen- und Mineralreich.
+MITSCHÖPFER zu sein heisst: *Ich trage Mitverantwortung und meine heilenden Gedanken und Taten verändern meine Lebensumstände und haben Einfluss auf die gesamte Schöpfung. Ebenso tragen negative Gedanken und Taten dazu bei, zerstörende Energien zu unterstützen.*
 
-Das Ziel dieses Forums ist uns Gegenseitig zu inspirieren, aufzuwachen, Ziele zu erarbeiten,
-GEMEINSAM erschaffen wir neue Gesellschaftsformen, ergänzend entstehen neue Formen des Zusammenlebens. Nur so kann eine neue friedvolle Erde entstehen, durch Menschen die bestrebt sind in Harmonie und Zusammenzuarbeiten, im Einklang mit der gesamten Schöpfung zu leben.
+Das Ziel dieses Forums ist; uns gegenseitig zu inspirieren, aufzuwachen, Ziele zu erarbeiten.
+GEMEINSAM erschaffen wir neue Gesellschaftsformen, ergänzend entstehen neue Formen des Zusammenlebens zwischen Mensch und Natur. Nur so kann eine neue, friedvollere Erde entstehen durch Menschen die bestrebt sind, ein Leben in Harmonie, in Zusammenarbeit und im Einklang mit der gesamten Schöpfung zu leben.
 
-GEMEINSAM erschaffen wir eine Neue Welt, eine friedvollere Welt für unsere Kinder und die Kinder unserer Kinder und allen Generationen die danach kommen. An diesem **1. Internationalen Shanti-Forum am 5. - 7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und
-stellen Ihre ganz persönliche Zukunftsvision vor - die sie bereits leben, oder am
-Aufbauen und Weiterentwickeln sind.
+GEMEINSAM erschaffen wir eine friedvollere Welt für unsere Kinder und alle nachfolgenden Generationen. An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 5.-7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und stellen Ihre ganz persönliche Zukunftsvision vor – die sie bereits leben, ausbauen und weiterentwickeln.
+
+Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im Alltag.
 
 ## Themen werden sein:
 - Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!
-- Das Wirken des Ätherischen im Über- und Untersinnlichen, der Mensch im
-  Spannungsfeld von Auf- und Abbauenden Kraftfelder
 - Lifecoaching durch Musik - Finde in dir selbst die Macht - es ist dein Geist, der deine Welt erschafft
+- The Rite of the Womb - Der Ritus des Mutterleibes, Die Heilung des Mutterleibes (the 13th rite of Munay-Ki)
 - Persönlichkeitscoaching – Persönlichkeitsentwicklung für eine neue Welt
-- Die Kraft der Entfaltung der Neugeborenen, Globale Verantwortung in
+- Die Kraft der Entfaltung der Neugeborenen - Globale Verantwortung in
   einer sich wandelnden Welt
-- Gelebte Familien Transformation, neue zukunftsorientierte Formen als Familie
+- Gelebte Familien Transformation - neue zukunftsorientierte Formen als Familie
   und Individuum
-- Kunst und Bildung, Ein Reiseführer ins verborgene Land Belowodje
-- Interdisziplinäre Zusammenarbeit, verschiedener Religionen; gelebtes Beispiel
-- Musik Klavierkonzert, "Musik für's Herz von romantisch bis groovig"
+- Kunst und Bildung - Ein Reiseführer ins verborgene Land Belowodje
+- Interdisziplinäre Zusammenarbeit verschiedener Religionen - gelebtes Beispiel
+- Musik Klavierkonzert - "Musik für's Herz von romantisch bis groovig"
 - Was will ich - leben oder überleben
+- Feuer-Heilritual - Naturverbindung und Heilung für die Menschen, Mineral- Pflanzen- Tierreich und Schöpfung; Ritual in Verbindung mit den Elementen: Erde, Feuer, Luft, Wasser, Raum
+
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).
 
