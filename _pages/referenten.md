@@ -114,8 +114,8 @@ den alpinen Regionen fördern und umsetzen."
     <br>Die sinnvolle Verwendung der Rohstoffe, welche uns die Natur zur Verfügung stellt lässt uns dabei sehr kreativ werden.
     <br>Wir wollen unserer Natur wieder etwas zurückgeben für das, was ihr genommen wurde und den Weg zu einer solidarischen Gesellschaft gehen.
  "
-    url: "http://www.lebendiges-jetzt.com"
-    btn_label: "http://www.lebendiges-jetzt.com"
+    url: "https://www.adlstrass.de/"
+    btn_label: "https://www.adlstrass.de/"
     btn_class: "btn--primary"
 
 
