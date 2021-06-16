@@ -47,7 +47,7 @@ MITSCHÖPFER zu sein heisst: *Ich trage Mitverantwortung und meine heilenden Ged
 Das Ziel dieses Forums ist; uns gegenseitig zu inspirieren, aufzuwachen, Ziele zu erarbeiten.
 GEMEINSAM erschaffen wir neue Gesellschaftsformen, ergänzend entstehen neue Formen des Zusammenlebens zwischen Mensch und Natur. Nur so kann eine neue, friedvollere Erde entstehen durch Menschen die bestrebt sind, ein Leben in Harmonie, in Zusammenarbeit und im Einklang mit der gesamten Schöpfung zu leben.
 
-GEMEINSAM erschaffen wir eine friedvollere Welt für unsere Kinder und alle nachfolgenden Generationen. An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 5.-7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und stellen Ihre ganz persönliche Zukunftsvision vor – die sie bereits leben, ausbauen und weiterentwickeln.
+GEMEINSAM erschaffen wir eine friedvollere Welt für unsere Kinder und alle nachfolgenden Generationen. An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 5.-7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen [Menschen](referenten) zu Wort und stellen Ihre ganz persönliche Zukunftsvision vor – die sie bereits leben, ausbauen und weiterentwickeln. **Alle Teilnehmer sind herzlich eingeladen persönlich im Schlosshotel Wartegg dabei zu sein. Das Forum wird auch live und online zur Verfügung gestellt**.
 
 Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im Alltag.
 
@@ -64,7 +64,7 @@ Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im
 - Interdisziplinäre Zusammenarbeit verschiedener Religionen - gelebtes Beispiel
 - Musik Klavierkonzert - "Musik für's Herz von romantisch bis groovig"
 - Was will ich - leben oder überleben
-- Feuer-Heilritual - Naturverbindung und Heilung für die Menschen, Mineral- Pflanzen- Tierreich und Schöpfung; Ritual in Verbindung mit den Elementen: Erde, Feuer, Luft, Wasser, Raum
+- Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.
 
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).

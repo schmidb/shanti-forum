@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/maurer_flyer.jpg
 ---
+An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 5.-7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen Menschen zu Wort und stellen Ihre ganz persönliche Zukunftsvision vor – die sie bereits leben, ausbauen und weiterentwickeln. **Alle Teilnehmer sind herzlich eingeladen persönlich im Schlosshotel Wartegg dabei zu sein. Das Forum wird auch live und online zur Verfügung gestellt**.
 
 # Freitag, 5. November 2021
 * 16.30-17.30 Registration
@@ -30,10 +31,10 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
 * 12.30-13.30  MITTAGESSEN
-* 14.00-15.30 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
-* 15.30-16.00 AUSSPRACHE
-* 16.00-16.30 PAUSE
-* 16.30-18.00 **DREI ARBEITSGRUPPEN**
+* 14.00-15.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
+* 15.00-15.30 AUSSPRACHE
+* 15.30-16.00 PAUSE
+* 16.00-18.00 **DREI ARBEITSGRUPPEN**
   * GRUPPE A *tbd*
   * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
@@ -50,7 +51,7 @@ INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermit
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.30 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Luft, Wasser, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
+* 10.30-11.30 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
 		Haus der Religionen, Bern CH
 * 11.30-12.00 AUSSPRACHE
 * 12.30-13.30 MITTAGESSEN

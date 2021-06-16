@@ -10,11 +10,10 @@ header:
 
 
 #### Angaben gem&auml;&szlig; &sect; 5 TMG
-Mother of life Shanti Yoga"<br>
-Praxis für Gesamtheitliche Therapien<br>
+Projekt "Mother of Life Shanti Yoga"<br>
 Shanti Bosshart<br>
-Kasernenstrasse 5<br>
-3600 Thun - Schweiz
+Schoubhus 3<br>
+3615 Heimenschwand bei Thun - Schweiz
 
 #### Kontakt
 Fon: +41(0)332230048<br>

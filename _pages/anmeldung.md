@@ -7,15 +7,16 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/the-road_640.jpg
 ---
-Das Shanti-Forum richtet sich inbesondere an Alle Interessierten an der Förderung und Weiterentwicklung zum Schutze des Lebens: wie z. B. Ärzte,
+Das Shanti-Forum richtet sich insbesondere an alle Interessierten an der Förderung und Weiterentwicklung zum Schutze des Lebens: wie z. B. Ärzte,
 Therapeuten, Pflegepersonal, Pädagogen, Lehrpersonen,
 Kunstschaffende, Eltern, Erzieher, …
 
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
 <p><select name="preis" size="1">
-<option>Frühbucherpreis bis 30.09.2021 - XXX CHF</option>
-<option>Normalpreis bis 03.11.2021 - XXX CHF</option>
+<option>Frühbucherpreis bis 15.08.2021 - XXX CHF</option>
+<option>Normalpreis bis 15.10.2021 - XXX CHF</option>
+<option>Onlinepreis - XXX CHF</option>
 </select></p><p>
 Rabattcode:<input type="text" name="rabatt">
 </p>
@@ -34,14 +35,14 @@ Kommentar: <textarea type="text" name="kommentar" rows="6" cols="30"></textarea>
 </form>
 <br><br>
 
-# Anmeldeschluss 03.11.2021
+# Anmeldeschluss 15.10.2021
 Mit Anmeldung ist die Überweisung (keine Barzahlung) des gewählten Betrages fällig. Der Eingang Ihrer Zahlung ist zugleich das Datum Ihrer Anmeldung. Ihre Anmeldung ist verbindlich.
 
-Es besteht die Möglichkeit, den Preis für das Forum in 2 Teilbeträgen (Teilbetrag für Normalpreis 2 x CHF 215 bzw. Teilbetrag für Frühbucher 2 x CHF 200) zu bezahlen, wobei der 1. Teilbetrag mit der Anmeldung zum Forum und der 2. Teilbetrag spätestens bis zum Anmeldeschluss für das Forum, d.h. bis zum 03.11.2020 verbindlich zu überweisen ist.
+Es besteht die Möglichkeit, den Preis für das Forum in 2 Teilbeträgen (Teilbetrag für Normalpreis 2 x CHF XXX bzw. Teilbetrag für Frühbucher 2 x CHF XXX) zu bezahlen, wobei der 1. Teilbetrag mit der Anmeldung zum Forum und der 2. Teilbetrag spätestens bis zum Anmeldeschluss für das Forum, d.h. bis zum 03.11.2021 verbindlich zu überweisen ist.
 
 Die Teilnahmegebühr ist bei Anmeldung zu überweisen an:<br>
 Mother of life Shanti Yoga<br>
-Stichwort Shanti Forum 2020 + Name des Teilnehmers<br>
+Stichwort Shanti Forum 2021 + Name des Teilnehmers<br>
 IBAN CH57 0870 4049 7234 5910 9 / BIC AEKTCH22XXX<br>
 AEK BANK 1826, CH-3602 Thun
 
@@ -52,13 +53,13 @@ E-Mail: schloss@wartegg.ch<br>
 
 
 ### Obligatorische Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-Minimale Tagespauschale von CHF 88.– pro Person <b>und Tag</b> inklusive Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen.
+Minimale Tagespauschale von CHF XX.– pro Person <b>und Tag</b> inklusive Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen.
 
 ### Fakultative Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-Gang Abendessen für CHF 134.– pro Person <b>und Tag</b>.
+* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-Gang Abendessen für CHF XXX.– pro Person <b>und Tag</b>.
 *  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
-2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– <b>pro Tag</b> und
-Person im DZ bei Doppelbelegung; CHF 268.– <b>pro Tag</b> und Person im EZ.
+2-Gang-Mittag- und 3-Gang-Abendessen für CHF XXX.– <b>pro Tag</b> und
+Person im DZ bei Doppelbelegung; CHF XXX.– <b>pro Tag</b> und Person im EZ.
 
 
 <i>Die personenbezogenen Daten Ihrer Anmeldung, werden nur zur
