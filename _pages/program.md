@@ -26,8 +26,7 @@ An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 
 		Verantwortung für eine vielfältige und gesunde Natur.
 * 10.00-10.30 AUSSPRACHE
 * 10.30-10.45 PAUSE
-* 10.45-11.15 **DIE KRAFT DER ENTFALTUNG DER
-NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Familienbetreuung, *Ecole Equestre Esprit de la Légèreté*, Courtion CH
+* 10.45-11.15 **DIE KRAFT DER ENTFALTUNG DER NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Familienbetreuung, *Ecole Equestre Esprit de la Légèreté*, Courtion CH
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
 * 12.30-13.30  MITTAGESSEN
@@ -35,7 +34,7 @@ NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Fa
 * 15.00-15.30 AUSSPRACHE
 * 15.30-16.00 PAUSE
 * 16.00-18.00 **DREI ARBEITSGRUPPEN**
-  * GRUPPE A *tbd*
+  * GRUPPE A *Der Ritus des Mutterleibes, The Rite of the Womb - DER 13. Munay-Ki RITUS*, Shanti Bosshart   
   * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner
 * 18.30-19.30 ABENDESSEN
