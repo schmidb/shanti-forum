@@ -32,13 +32,13 @@ E-Mail: schloss@wartegg.ch<br>
 
 
 ### Obligatorische Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-Minimale Tagespauschale von CHF XX.– pro Person <b>und Tag</b> inklusive Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen.
+Minimale Tagespauschale von CHF 88.– pro Person <b>und Tag</b> inklusive Seminarraum, Kaffeepause Vor- und Nachmittags mit Snacks, permanentes Tee und Kaffeebuffet, Mineralwasser sowie ein 2-Gang-Mittagessen.
 
 ### Fakultative Hotel-Kosten (zusätzlich zu den Forum-Kosten)
-* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-Gang Abendessen für CHF XXX.– pro Person <b>und Tag</b>.
+* Tagespauschale wie oben, jedoch inklusive 2-Gang-Mittag- und 3-Gang Abendessen für CHF 134.– pro Person <b>und Tag</b>.
 *  Tagespauschale wie oben, jedoch inklusive Übernachtung, Frühstück,
-2-Gang-Mittag- und 3-Gang-Abendessen für CHF XXX.– <b>pro Tag</b> und
-Person im DZ bei Doppelbelegung; CHF XXX.– <b>pro Tag</b> und Person im EZ.
+2-Gang-Mittag- und 3-Gang-Abendessen für CHF 233.– <b>pro Tag</b> und
+Person im DZ bei Doppelbelegung; CHF 268.– <b>pro Tag</b> und Person im EZ.
 
 # Anreise
 Wir empfehlen die Anreiseempfehlungen auf der Webseite des Schlosshotel Wartegg: [https://wartegg.ch/arrival/](https://wartegg.ch/arrival/){:target="_blank"}
