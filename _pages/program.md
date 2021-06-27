@@ -61,4 +61,5 @@ Projekte im Bereich Kunst, Bildung und
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-Download Flyer: [Druckversion](/assets/shanti_flyer_2020_druck.pdf), [Webversion](/assets/shanti_flyer_2020_web.pdf)
+<!-- Download Flyer: [Druckversion](/assets/shanti_flyer_2020_druck.pdf), [Webversion](/assets/shanti_flyer_2020_web.pdf)
+-->
