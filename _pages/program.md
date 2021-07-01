@@ -30,12 +30,11 @@ An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
 * 12.30-13.30  MITTAGESSEN
-* 13.30-14.00 **Der Ritus des Mutterleibes, The Rite of the Womb - DER 13. Munay-Ki RITUS**, Shanti Bosshart   
 * 14.00-15.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
 * 15.00-15.30 AUSSPRACHE
 * 15.30-16.00 PAUSE
 * 16.00-18.00 **DREI ARBEITSGRUPPEN**
-  * GRUPPE A *Leben nahe an der Natur*, Sascha Schär, Matthias Tafelmeier
+  * GRUPPE A  *KANSO-Architektur, Kanso kommt vom japanischen und besteht aus zwei Kanji Schriften: „einfach“, „simpel“ und „rein“, „unbearbeitet“*, Sascha Schär, Hildegard & Matthias Tafelmeier
   * GRUPPE B *Herausforderungen und Lösungsansätze im Eltern sein in der Neuen Zeit*, Doris Luginbühl, Miriam & Markus Schmidberger
   * GRUPPE C *Nimm Dein Leben selbst in die Hand*, Lumira Weidner, Shanti Bosshart
 * 18.30-19.30 ABENDESSEN

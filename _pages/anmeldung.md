@@ -16,9 +16,7 @@ Kunstschaffende, Eltern, Erzieher, …
 <p><select name="preis" size="1">
 <option>Normalpreis bis 03.09.2021 - 475 CHF</option>
 <option>Onlinepreis bis 03.09.2021 - 175 CHF</option>
-</select></p><p>
-Rabattcode:<input type="text" name="rabatt">
-</p>
+</select></p>
 <p>
 <b>Vorname / Name:*</b> <input type="text" name="name" value="Max Mustermann">
 Strasse: <input type="text" name="strasse">
