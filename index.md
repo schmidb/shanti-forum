@@ -10,8 +10,8 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/spring_640.jpg
   actions:
-  #  - label: "Download Flyer"
-  #    url: "/assets/shanti_flyer_2021_web.pdf"
+    - label: "Download Flyer"
+      url: "/assets/shanti_flyer_2021_web.pdf"
     - label: "Anmeldung"
       url: "/anmeldung/"
 feature_row:
@@ -70,5 +70,4 @@ Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im
 Mehr Details entnehmen Sie bitte dem [Program](/program).
 
 
-<!-- Download Flyer: [Druckversion](/assets/shanti_flyer_2021_druck.pdf), [Webversion](/assets/shanti_flyer_2021_web.pdf)
---> 
+Download Flyer: [Webversion](/assets/shanti_flyer_2021_web.pdf)

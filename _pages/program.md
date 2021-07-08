@@ -29,7 +29,7 @@ An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 
 * 10.45-11.15 **DIE KRAFT DER ENTFALTUNG DER NEUGEBORENEN**, Doris Luginbühl, Mutter von 3 Kinder, dipl. Hebamme, SS- und Familienbetreuung, *Ecole Equestre Esprit de la Légèreté*, Courtion CH
 * 11.15-11.45 **GELEBTE FAMILIEN TRANSFORMATION**, Miriam & Markus Schmidberger, Eltern von 4 Kinder, Miriam Studium Informatik, Markus Studium Mathematik, Teamleiter Software-Entwicklung, Berlin DE
 * 11.45-12.15 AUSSPRACHE VORTRÄGE, Doris Luginbühl, Miriam & Markus Schmidberger
-* 12.30-13.30  MITTAGESSEN
+* 12.30-13.30 MITTAGESSEN
 * 14.00-15.00 **LEBE DEINE BESTIMMUNG UND GEHE DEINEN WEG**, Lumira Weidner, Russische Heilerin, Bestseller­autorin, Persönlichkeitscoach, Kaufering DE
 * 15.00-15.30 AUSSPRACHE
 * 15.30-16.00 PAUSE
@@ -50,9 +50,9 @@ INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermit
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.30 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
+* 10.30-11.00 **Bharatanatyam Nattiyalayam – klassisch indischer Tanz**, Anusha Satkunanathan, School of Classical dance of Tamils
+* 11.00-12.00 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
 		Haus der Religionen, Bern CH
-* 11.30-12.00 AUSSPRACHE
 * 12.30-13.30 MITTAGESSEN
 * 14.00-15.00 **WAS WILL ICH - LEBEN ODER ÜBERLEBEN, Das wahre Glück, mir selbst zu begegnen**, Prof. Dr. Franz Ruppert, Psychotraumatologe, München DE
 * 15.00-15.30 AUSSPRACHE
@@ -60,5 +60,4 @@ Projekte im Bereich Kunst, Bildung und
 
 <a href="/anmeldung" class="btn btn--primary">zur Anmeldung</a>
 
-<!-- Download Flyer: [Druckversion](/assets/shanti_flyer_2020_druck.pdf), [Webversion](/assets/shanti_flyer_2020_web.pdf)
--->
+Download Flyer: [Webversion](/assets/shanti_flyer_2021_web.pdf)

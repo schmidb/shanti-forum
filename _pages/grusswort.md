@@ -36,3 +36,5 @@ Shanti Bosshart
 
 <img src="/assets/referenten/shanti2.jpg" alt="Kitten"
 	title="A cute kitten" width="150" height="100" />
+
+Download Flyer: [Webversion](/assets/shanti_flyer_2021_web.pdf)
