@@ -50,7 +50,7 @@ INS VERBORGENE LAND BELOWODJE**, Stefan Maurer, Fotograf, Künstler, Kunstvermit
 Projekte im Bereich Kunst, Bildung und
 Öffentlichkeit, Bern CH
 * 10.00-10.30 AUSSPRACHE
-* 10.30-11.00 **Bharatanatyam Nattiyalayam – klassisch indischer Tanz**, Anusha Satkunanathan, School of Classical dance of Tamils
+* 10.30-11.00 **Bharathanjalli Nattiyalayam – klassisch indischer Tanz**, Anusha Satkunanathan, School of Classical dance of Tamils
 * 11.00-12.00 **Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.**, Sasikumar Tharmalingam, Hindupriester, Seelsorger, interreligiöser & 			interkultureller Mentor (FAH BE), Leiter Ayurvedische Küche,
 		Haus der Religionen, Bern CH
 * 12.30-13.30 MITTAGESSEN

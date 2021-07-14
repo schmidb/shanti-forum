@@ -13,10 +13,11 @@ Kunstschaffende, Eltern, Erzieher, …
 
 # Anmeldung
 <form action="https://formspree.io/meqrebjr" method="POST">
-<p><select name="preis" size="1">
-<option>Normalpreis bis 03.09.2021 - 475 CHF</option>
-<option>Onlinepreis bis 03.09.2021 - 175 CHF</option>
-</select></p>
+<p>
+  <label for="normal"><input type="radio" id="normal" name="preis" value="normal" checked>Normalpreis bis 03.09.2021 - 475 CHF</label>
+<br>
+  <label for="online"><input type="radio" id="online" name="preis" value="online">Onlinepreis bis 03.09.2021 - 175 CHF</label>
+</p>
 <p>
 <b>Vorname / Name:*</b> <input type="text" name="name" value="Max Mustermann">
 Strasse: <input type="text" name="strasse">
