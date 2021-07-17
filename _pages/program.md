@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_color: "#00f"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/maurer_flyer.jpg
+  overlay_image: /assets/images/regenbogen.jpg
 ---
 An diesem **1. Internationalen Shanti-Forum „WE ARE ONE - Gelebte Zukunft“, 5.-7. November 2021 im Schlosshotel Wartegg (Schweiz) am Bodensee** kommen Menschen zu Wort und stellen Ihre ganz persönliche Zukunftsvision vor – die sie bereits leben, ausbauen und weiterentwickeln. **Alle Teilnehmer sind herzlich eingeladen persönlich im Schlosshotel Wartegg dabei zu sein. Das Forum wird auch live und online zur Verfügung gestellt**.
 
