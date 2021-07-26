@@ -54,7 +54,7 @@ Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im
 ## Themen werden sein:
 - Verdichtetes Bauen im Alpinen Raum – kein Wiederspruch!
 - Lifecoaching durch Musik - Finde in dir selbst die Macht - es ist dein Geist, der deine Welt erschafft
-- The Rite of the Womb - Der Ritus des Mutterleibes, Die Heilung des Mutterleibes (the 13th rite of Munay-Ki)
+<!-- - The Rite of the Womb - Der Ritus des Mutterleibes, Die Heilung des Mutterleibes (the 13th rite of Munay-Ki) -->
 - Persönlichkeitscoaching – Persönlichkeitsentwicklung für eine neue Welt
 - Die Kraft der Entfaltung der Neugeborenen - Globale Verantwortung in
   einer sich wandelnden Welt
