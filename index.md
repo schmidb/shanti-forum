@@ -63,9 +63,9 @@ Sie geben uns allen Anregung und Ideen zum eigenen Tun und praktisch Umsetzen im
 - Kunst und Bildung - Ein Reiseführer ins verborgene Land Belowodje
 - Interdisziplinäre Zusammenarbeit verschiedener Religionen - gelebtes Beispiel
 - Klassisch indischer Tanz
+- Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.
 - Musik Klavierkonzert - "Musik für's Herz von romantisch bis groovig"
 - Was will ich - leben oder überleben
-- Feuer-Ritual zur Verbindung mit der Natur für Erde, Mensch und Schöpfung. Ritual zur Verbindung mit den 5 Elementen: Erde, Feuer, Wasser, Luft, Raum.
 
 
 Mehr Details entnehmen Sie bitte dem [Program](/program).
